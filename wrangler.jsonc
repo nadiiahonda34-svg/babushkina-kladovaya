@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "super-meadow-3240",
+  "name": "babushkina-kladovaya",
   "main": "worker.js",
   "compatibility_date": "2026-08-25",
   "assets": {
