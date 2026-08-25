@@ -1,0 +1,10 @@
+LUXE EDITORIAL REDESIGN V2
+Palette: warm ivory / espresso / cherry / apricot (green removed)
+Layout: asymmetric editorial, less dashboard-like
+Typography: Instrument Serif + DM Sans
+Search: preserved
+Filters: preserved
+Recipe modal/PDF: preserved
+6 language routes: preserved
+Mobile breakpoints: preserved
+Google verification file: preserved

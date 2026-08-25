@@ -1,0 +1,8 @@
+worker.js
+wrangler.jsonc
+schema.sql
+database.sql
+*.md
+*.txt
+*.csv
+*.env*

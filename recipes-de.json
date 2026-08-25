@@ -1,0 +1,7059 @@
+[
+  {
+    "id": 1,
+    "title": "Hausgemachtes Suppe",
+    "cat": "Suppe",
+    "time": 80,
+    "rating": null,
+    "emoji": "🍲",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "борщ",
+      "свекла"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-1.svg",
+    "url": "/de/recipes/hausgemachtes-suppe/index.html"
+  },
+  {
+    "id": 2,
+    "title": "Suppe mit Kohl",
+    "cat": "Suppe",
+    "time": 65,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "щи",
+      "капуста"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-2.svg",
+    "url": "/de/recipes/suppe-mit-kohl/index.html"
+  },
+  {
+    "id": 3,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 55,
+    "rating": null,
+    "emoji": "🍜",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "курица",
+      "лапша"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-3.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 4,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 75,
+    "rating": null,
+    "emoji": "🫛",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "горох"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-4.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 5,
+    "title": "Suppe mit Suppe und Kürbis",
+    "cat": "Suppe",
+    "time": 40,
+    "rating": null,
+    "emoji": "🎃",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "тыква",
+      "пюре"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-5.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kurbis/index.html"
+  },
+  {
+    "id": 6,
+    "title": "Suppe mit Suppe und Buchweizen",
+    "cat": "Suppe",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥕",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "гречка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-6.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-buchweizen-114/index.html"
+  },
+  {
+    "id": 7,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥞",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "сырники",
+      "творог",
+      "завтрак"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-7.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 8,
+    "title": "Frühstück mit Apfel und Hafer",
+    "cat": "Frühstück",
+    "time": 15,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "каша",
+      "овсянка",
+      "яблоко"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-8.svg",
+    "url": "/de/recipes/fruhstuck-mit-apfel-und-hafer/index.html"
+  },
+  {
+    "id": 9,
+    "title": "Frühstück mit Kürbis",
+    "cat": "Frühstück",
+    "time": 35,
+    "rating": null,
+    "emoji": "🎃",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "каша",
+      "пшено",
+      "тыква"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-9.svg",
+    "url": "/de/recipes/fruhstuck-mit-kurbis/index.html"
+  },
+  {
+    "id": 10,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 15,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "омлет",
+      "яйца"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-10.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 11,
+    "title": "Hauptgericht mit Buchweizen und Pilz",
+    "cat": "Hauptgericht",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍄",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "гречка",
+      "грибы"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-11.svg",
+    "url": "/de/recipes/hauptgericht-mit-buchweizen-und-pilz-147/index.html"
+  },
+  {
+    "id": 12,
+    "title": "Hauptgericht mit Kartoffel",
+    "cat": "Hauptgericht",
+    "time": 60,
+    "rating": null,
+    "emoji": "🥔",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "картофель",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-12.svg",
+    "url": "/de/recipes/hauptgericht-mit-kartoffel-149/index.html"
+  },
+  {
+    "id": 13,
+    "title": "Hauptgericht mit Kohl",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥬",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "капуста",
+      "овощи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-13.svg",
+    "url": "/de/recipes/hauptgericht-mit-kohl-67/index.html"
+  },
+  {
+    "id": 14,
+    "title": "Hausgemachtes Hauptgericht",
+    "cat": "Hauptgericht",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "индейка",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-14.svg",
+    "url": "/de/recipes/hausgemachtes-hauptgericht-151/index.html"
+  },
+  {
+    "id": 15,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 55,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "пирог",
+      "яблоко",
+      "шарлотка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-15.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 16,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍰",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "творог",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-16.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 17,
+    "title": "Backen mit Karotte",
+    "cat": "Backen",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍪",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "печенье",
+      "морковь"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-17.svg",
+    "url": "/de/recipes/backen-mit-karotte-78/index.html"
+  },
+  {
+    "id": 18,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥞",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "оладьи",
+      "кефир"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-18.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 19,
+    "title": "Getränk mit Apfel und Kompott",
+    "cat": "Getränk",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍎",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "компот",
+      "яблоко",
+      "напиток"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-19.svg",
+    "url": "/de/recipes/getrank-mit-apfel-und-kompott-212/index.html"
+  },
+  {
+    "id": 20,
+    "title": "Getränk mit Apfel und Tee",
+    "cat": "Getränk",
+    "time": 10,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "чай",
+      "мята",
+      "яблоко"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-20.svg",
+    "url": "/de/recipes/getrank-mit-apfel-und-tee/index.html"
+  },
+  {
+    "id": 21,
+    "title": "Getränk mit Beere",
+    "cat": "Getränk",
+    "time": 20,
+    "rating": null,
+    "emoji": "🫐",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "морс",
+      "ягоды"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-21.svg",
+    "url": "/de/recipes/getrank-mit-beere/index.html"
+  },
+  {
+    "id": 22,
+    "title": "Salat mit Apfel und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "свекла",
+      "яблоко"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-22.svg",
+    "url": "/de/recipes/salat-mit-apfel-und-salat-195/index.html"
+  },
+  {
+    "id": 23,
+    "title": "Hausgemachtes Salat",
+    "cat": "Salat",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "винегрет"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-23.svg",
+    "url": "/de/recipes/hausgemachtes-salat/index.html"
+  },
+  {
+    "id": 24,
+    "title": "Salat mit Karotte und Kohl und Salat",
+    "cat": "Salat",
+    "time": 15,
+    "rating": null,
+    "emoji": "🥬",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "капуста",
+      "морковь"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-24.svg",
+    "url": "/de/recipes/salat-mit-karotte-und-kohl-und-salat-178/index.html"
+  },
+  {
+    "id": 25,
+    "title": "Hausgemachtes Suppe",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "рассольник",
+      "с",
+      "перловкой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-25.svg",
+    "url": "/de/recipes/hausgemachtes-suppe/index.html"
+  },
+  {
+    "id": 26,
+    "title": "Suppe mit Suppe und Zucchini",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "овощной",
+      "суп",
+      "с",
+      "кабачком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-26.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-zucchini/index.html"
+  },
+  {
+    "id": 27,
+    "title": "Suppe mit Suppe und Linse",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-27.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-linse/index.html"
+  },
+  {
+    "id": 28,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "фрикадельками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-28.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 29,
+    "title": "Suppe mit Suppe und Kartoffel",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "картофельный",
+      "суп",
+      "с",
+      "укропом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-29.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kartoffel/index.html"
+  },
+  {
+    "id": 30,
+    "title": "Suppe mit Suppe und Reis",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "рисовый",
+      "суп",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-30.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-reis-105/index.html"
+  },
+  {
+    "id": 31,
+    "title": "Suppe mit Suppe und Kohl",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "цветной",
+      "капустой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-31.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kohl-119/index.html"
+  },
+  {
+    "id": 32,
+    "title": "Suppe mit Suppe und Bohne",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "фасолевый",
+      "суп"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-32.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-bohne-104/index.html"
+  },
+  {
+    "id": 33,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "вермишелью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-33.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 34,
+    "title": "Suppe mit Suppe und Kohl",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "крем-суп",
+      "из",
+      "цветной",
+      "капусты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-34.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kohl-119/index.html"
+  },
+  {
+    "id": 35,
+    "title": "Suppe mit Suppe und Zucchini",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп-пюре",
+      "из",
+      "кабачка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-35.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-zucchini/index.html"
+  },
+  {
+    "id": 36,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "перловый",
+      "суп",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-36.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 37,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "зеленым",
+      "горошком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-37.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 38,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "томатный",
+      "овощной",
+      "суп"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-38.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 39,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "брокколи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-39.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 40,
+    "title": "Frühstück mit Apfel und Reis",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "рисовая",
+      "каша",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-40.svg",
+    "url": "/de/recipes/fruhstuck-mit-apfel-und-reis/index.html"
+  },
+  {
+    "id": 41,
+    "title": "Frühstück mit Beere",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "манная",
+      "каша",
+      "с",
+      "ягодами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-41.svg",
+    "url": "/de/recipes/fruhstuck-mit-beere/index.html"
+  },
+  {
+    "id": 42,
+    "title": "Frühstück mit Buchweizen",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "гречневая",
+      "каша",
+      "на",
+      "молоке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-42.svg",
+    "url": "/de/recipes/fruhstuck-mit-buchweizen/index.html"
+  },
+  {
+    "id": 43,
+    "title": "Frühstück mit Apfel",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "пшенная",
+      "каша",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-43.svg",
+    "url": "/de/recipes/fruhstuck-mit-apfel/index.html"
+  },
+  {
+    "id": 44,
+    "title": "Frühstück mit Birne und Hafer",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "овсянка",
+      "с",
+      "грушей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-44.svg",
+    "url": "/de/recipes/fruhstuck-mit-birne-und-hafer-138/index.html"
+  },
+  {
+    "id": 45,
+    "title": "Frühstück mit Beere und Hafer",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "овсянка",
+      "с",
+      "ягодами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-45.svg",
+    "url": "/de/recipes/fruhstuck-mit-beere-und-hafer/index.html"
+  },
+  {
+    "id": 46,
+    "title": "Frühstück mit Apfel und Quark",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "творог",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-46.svg",
+    "url": "/de/recipes/fruhstuck-mit-apfel-und-quark/index.html"
+  },
+  {
+    "id": 47,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "запеченные",
+      "сырники"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-47.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 48,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "омлет",
+      "с",
+      "помидорами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-48.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 49,
+    "title": "Frühstück mit Zucchini",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "омлет",
+      "с",
+      "кабачком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-49.svg",
+    "url": "/de/recipes/fruhstuck-mit-zucchini-132/index.html"
+  },
+  {
+    "id": 50,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "яичная",
+      "запеканка",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-50.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 51,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "ленивые",
+      "вареники"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-51.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 52,
+    "title": "Frühstück mit Reis",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "рисовая",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-52.svg",
+    "url": "/de/recipes/fruhstuck-mit-reis/index.html"
+  },
+  {
+    "id": 53,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "гренки",
+      "с",
+      "яйцом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-53.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 54,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "творожные",
+      "оладьи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-54.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 55,
+    "title": "Hauptgericht mit Buchweizen",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "гречка",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-55.svg",
+    "url": "/de/recipes/hauptgericht-mit-buchweizen/index.html"
+  },
+  {
+    "id": 56,
+    "title": "Hauptgericht mit Reis",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "рис",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-56.svg",
+    "url": "/de/recipes/hauptgericht-mit-reis-157/index.html"
+  },
+  {
+    "id": 57,
+    "title": "Hauptgericht mit Pilz",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "перловка",
+      "с",
+      "грибами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-57.svg",
+    "url": "/de/recipes/hauptgericht-mit-pilz/index.html"
+  },
+  {
+    "id": 58,
+    "title": "Hauptgericht mit Kartoffel und Pilz",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "картофель",
+      "с",
+      "грибами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-58.svg",
+    "url": "/de/recipes/hauptgericht-mit-kartoffel-und-pilz/index.html"
+  },
+  {
+    "id": 59,
+    "title": "Hauptgericht mit Kartoffel",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "запеченный",
+      "картофель",
+      "с",
+      "травами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-59.svg",
+    "url": "/de/recipes/hauptgericht-mit-kartoffel-149/index.html"
+  },
+  {
+    "id": 60,
+    "title": "Hausgemachtes Hauptgericht",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "овощное",
+      "рагу"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-60.svg",
+    "url": "/de/recipes/hausgemachtes-hauptgericht-151/index.html"
+  },
+  {
+    "id": 61,
+    "title": "Hauptgericht mit Zucchini",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "рагу",
+      "из",
+      "кабачков"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-61.svg",
+    "url": "/de/recipes/hauptgericht-mit-zucchini-150/index.html"
+  },
+  {
+    "id": 62,
+    "title": "Hauptgericht mit Bohne",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "тушеная",
+      "фасоль",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-62.svg",
+    "url": "/de/recipes/hauptgericht-mit-bohne/index.html"
+  },
+  {
+    "id": 63,
+    "title": "Hauptgericht mit Karotte und Linse",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "чечевица",
+      "с",
+      "морковью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-63.svg",
+    "url": "/de/recipes/hauptgericht-mit-karotte-und-linse/index.html"
+  },
+  {
+    "id": 64,
+    "title": "Hauptgericht mit Buchweizen und Hähnchen",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "курица",
+      "с",
+      "гречкой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-64.svg",
+    "url": "/de/recipes/hauptgericht-mit-buchweizen-und-hahnchen/index.html"
+  },
+  {
+    "id": 65,
+    "title": "Hauptgericht mit Hähnchen",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "курица",
+      "с",
+      "овощами",
+      "в",
+      "духовке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-65.svg",
+    "url": "/de/recipes/hauptgericht-mit-hahnchen/index.html"
+  },
+  {
+    "id": 66,
+    "title": "Hausgemachtes Hauptgericht",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "рыба",
+      "с",
+      "овощами",
+      "в",
+      "духовке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-66.svg",
+    "url": "/de/recipes/hausgemachtes-hauptgericht-151/index.html"
+  },
+  {
+    "id": 67,
+    "title": "Hauptgericht mit Kohl",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "капустные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-67.svg",
+    "url": "/de/recipes/hauptgericht-mit-kohl-67/index.html"
+  },
+  {
+    "id": 68,
+    "title": "Hauptgericht mit Karotte",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "морковные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-68.svg",
+    "url": "/de/recipes/hauptgericht-mit-karotte/index.html"
+  },
+  {
+    "id": 69,
+    "title": "Hauptgericht mit Kartoffel",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "картофельные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-69.svg",
+    "url": "/de/recipes/hauptgericht-mit-kartoffel-149/index.html"
+  },
+  {
+    "id": 70,
+    "title": "Backen mit Birne und Kuchen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "с",
+      "грушами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-70.svg",
+    "url": "/de/recipes/backen-mit-birne-und-kuchen/index.html"
+  },
+  {
+    "id": 71,
+    "title": "Backen mit Kuchen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "со",
+      "сливами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-71.svg",
+    "url": "/de/recipes/backen-mit-kuchen/index.html"
+  },
+  {
+    "id": 72,
+    "title": "Backen mit Beere und Kuchen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "с",
+      "ягодами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-72.svg",
+    "url": "/de/recipes/backen-mit-beere-und-kuchen/index.html"
+  },
+  {
+    "id": 73,
+    "title": "Backen mit Apfel und Quark",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "печеные",
+      "яблоки",
+      "с",
+      "творогом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-73.svg",
+    "url": "/de/recipes/backen-mit-apfel-und-quark/index.html"
+  },
+  {
+    "id": 74,
+    "title": "Backen mit Hafer",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "овсяное",
+      "печенье"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-74.svg",
+    "url": "/de/recipes/backen-mit-hafer-168/index.html"
+  },
+  {
+    "id": 75,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "творожное",
+      "печенье"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-75.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 76,
+    "title": "Backen mit Apfel",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "печенье",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-76.svg",
+    "url": "/de/recipes/backen-mit-apfel-77/index.html"
+  },
+  {
+    "id": 77,
+    "title": "Backen mit Apfel",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "кекс",
+      "с",
+      "яблоками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-77.svg",
+    "url": "/de/recipes/backen-mit-apfel-77/index.html"
+  },
+  {
+    "id": 78,
+    "title": "Backen mit Karotte",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "морковный",
+      "кекс"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-78.svg",
+    "url": "/de/recipes/backen-mit-karotte-78/index.html"
+  },
+  {
+    "id": 79,
+    "title": "Backen mit Kürbis",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "тыквенный",
+      "кекс"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-79.svg",
+    "url": "/de/recipes/backen-mit-kurbis-172/index.html"
+  },
+  {
+    "id": 80,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "булочки",
+      "с",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-80.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 81,
+    "title": "Backen mit Quark",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "ватрушки",
+      "с",
+      "творогом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-81.svg",
+    "url": "/de/recipes/backen-mit-quark/index.html"
+  },
+  {
+    "id": 82,
+    "title": "Backen mit Kohl",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "пирожки",
+      "с",
+      "капустой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-82.svg",
+    "url": "/de/recipes/backen-mit-kohl/index.html"
+  },
+  {
+    "id": 83,
+    "title": "Backen mit Apfel",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "пирожки",
+      "с",
+      "яблоками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-83.svg",
+    "url": "/de/recipes/backen-mit-apfel-77/index.html"
+  },
+  {
+    "id": 84,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "манник",
+      "домашний"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-84.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 85,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "огурцов",
+      "и",
+      "помидоров"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-85.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 86,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "редиса",
+      "и",
+      "огурца"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-86.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 87,
+    "title": "Salat mit Apfel und Karotte und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "моркови",
+      "и",
+      "яблока"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-87.svg",
+    "url": "/de/recipes/salat-mit-apfel-und-karotte-und-salat-190/index.html"
+  },
+  {
+    "id": 88,
+    "title": "Salat mit Apfel und Kohl und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "капусты",
+      "и",
+      "яблока"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-88.svg",
+    "url": "/de/recipes/salat-mit-apfel-und-kohl-und-salat/index.html"
+  },
+  {
+    "id": 89,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "свеклы",
+      "с",
+      "черносливом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-89.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 90,
+    "title": "Salat mit Bohne und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "фасолью",
+      "и",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-90.svg",
+    "url": "/de/recipes/salat-mit-bohne-und-salat-185/index.html"
+  },
+  {
+    "id": 91,
+    "title": "Salat mit Kartoffel und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "картофелем",
+      "и",
+      "зеленью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-91.svg",
+    "url": "/de/recipes/salat-mit-kartoffel-und-salat-186/index.html"
+  },
+  {
+    "id": 92,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "огурцов",
+      "с",
+      "укропом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-92.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 93,
+    "title": "Salat mit Kürbis und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "теплый",
+      "салат",
+      "с",
+      "тыквой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-93.svg",
+    "url": "/de/recipes/salat-mit-kurbis-und-salat/index.html"
+  },
+  {
+    "id": 94,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "запеченной",
+      "свеклы"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-94.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 95,
+    "title": "Salat mit Linse und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-95.svg",
+    "url": "/de/recipes/salat-mit-linse-und-salat/index.html"
+  },
+  {
+    "id": 96,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "помидоров",
+      "с",
+      "луком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-96.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 97,
+    "title": "Salat mit Karotte und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "моркови",
+      "с",
+      "изюмом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-97.svg",
+    "url": "/de/recipes/salat-mit-karotte-und-salat/index.html"
+  },
+  {
+    "id": 98,
+    "title": "Getränk mit Birne und Kompott",
+    "cat": "Getränk",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "груш"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-98.svg",
+    "url": "/de/recipes/getrank-mit-birne-und-kompott/index.html"
+  },
+  {
+    "id": 99,
+    "title": "Getränk mit Kompott",
+    "cat": "Getränk",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "сухофруктов"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-99.svg",
+    "url": "/de/recipes/getrank-mit-kompott/index.html"
+  },
+  {
+    "id": 100,
+    "title": "Getränk mit Kompott",
+    "cat": "Getränk",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "слив"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-100.svg",
+    "url": "/de/recipes/getrank-mit-kompott/index.html"
+  },
+  {
+    "id": 101,
+    "title": "Suppe mit Suppe und Linse",
+    "cat": "Suppe",
+    "time": 35,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "красной",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-101.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-linse/index.html"
+  },
+  {
+    "id": 102,
+    "title": "Suppe mit Suppe und Reis",
+    "cat": "Suppe",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "куриный",
+      "суп",
+      "с",
+      "рисом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-102.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-reis-105/index.html"
+  },
+  {
+    "id": 103,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "овощной",
+      "суп",
+      "с",
+      "перловкой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-103.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 104,
+    "title": "Suppe mit Suppe und Bohne",
+    "cat": "Suppe",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "из",
+      "белой",
+      "фасоли"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-104.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-bohne-104/index.html"
+  },
+  {
+    "id": 105,
+    "title": "Suppe mit Suppe und Reis",
+    "cat": "Suppe",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "томатный",
+      "суп",
+      "с",
+      "рисом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-105.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-reis-105/index.html"
+  },
+  {
+    "id": 106,
+    "title": "Suppe mit Suppe und Kürbis und Linse",
+    "cat": "Suppe",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "тыквой",
+      "и",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-106.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kurbis-und-linse/index.html"
+  },
+  {
+    "id": 107,
+    "title": "Suppe mit Suppe und Kartoffel und Pilz",
+    "cat": "Suppe",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "картофельный",
+      "суп",
+      "с",
+      "грибами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-107.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kartoffel-und-pilz/index.html"
+  },
+  {
+    "id": 108,
+    "title": "Suppe mit Suppe und Kohl und Bohne",
+    "cat": "Suppe",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "капустный",
+      "суп",
+      "с",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-108.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kohl-und-bohne/index.html"
+  },
+  {
+    "id": 109,
+    "title": "Suppe mit Suppe und Reis und Zucchini",
+    "cat": "Suppe",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "кабачком",
+      "и",
+      "рисом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-109.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-reis-und-zucchini/index.html"
+  },
+  {
+    "id": 110,
+    "title": "Suppe mit Suppe und Karotte",
+    "cat": "Suppe",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "морковный",
+      "крем-суп"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-110.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-karotte/index.html"
+  },
+  {
+    "id": 111,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "свекольный",
+      "овощной",
+      "суп"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-111.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 112,
+    "title": "Suppe mit Suppe und Bohne",
+    "cat": "Suppe",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "зеленой",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-112.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-bohne-104/index.html"
+  },
+  {
+    "id": 113,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "куриный",
+      "суп",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-113.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 114,
+    "title": "Suppe mit Suppe und Buchweizen",
+    "cat": "Suppe",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "гречкой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-114.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-buchweizen-114/index.html"
+  },
+  {
+    "id": 115,
+    "title": "Suppe mit Suppe und Hafer",
+    "cat": "Suppe",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "овощной",
+      "суп",
+      "с",
+      "овсяными",
+      "хлопьями"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-115.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-hafer/index.html"
+  },
+  {
+    "id": 116,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп-пюре",
+      "из",
+      "брокколи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-116.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 117,
+    "title": "Suppe mit Suppe und Karotte",
+    "cat": "Suppe",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп-пюре",
+      "из",
+      "моркови"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-117.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-karotte/index.html"
+  },
+  {
+    "id": 118,
+    "title": "Suppe mit Suppe",
+    "cat": "Suppe",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "нутом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-118.svg",
+    "url": "/de/recipes/suppe-mit-suppe-118/index.html"
+  },
+  {
+    "id": 119,
+    "title": "Suppe mit Suppe und Kohl",
+    "cat": "Suppe",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "легкий",
+      "суп",
+      "с",
+      "капустой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-119.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kohl-119/index.html"
+  },
+  {
+    "id": 120,
+    "title": "Suppe mit Suppe und Kartoffel",
+    "cat": "Suppe",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "картофелем",
+      "и",
+      "горошком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-120.svg",
+    "url": "/de/recipes/suppe-mit-suppe-und-kartoffel/index.html"
+  },
+  {
+    "id": 121,
+    "title": "Frühstück mit Hafer",
+    "cat": "Frühstück",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "овсянка",
+      "с",
+      "бананом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-121.svg",
+    "url": "/de/recipes/fruhstuck-mit-hafer/index.html"
+  },
+  {
+    "id": 122,
+    "title": "Frühstück mit Apfel und Hafer",
+    "cat": "Frühstück",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "овсянка",
+      "с",
+      "яблоком",
+      "и",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-122.svg",
+    "url": "/de/recipes/fruhstuck-mit-apfel-und-hafer/index.html"
+  },
+  {
+    "id": 123,
+    "title": "Frühstück mit Apfel und Buchweizen",
+    "cat": "Frühstück",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "гречневая",
+      "каша",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-123.svg",
+    "url": "/de/recipes/fruhstuck-mit-apfel-und-buchweizen/index.html"
+  },
+  {
+    "id": 124,
+    "title": "Frühstück mit Kürbis und Reis",
+    "cat": "Frühstück",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "рисовая",
+      "каша",
+      "с",
+      "тыквой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-124.svg",
+    "url": "/de/recipes/fruhstuck-mit-kurbis-und-reis/index.html"
+  },
+  {
+    "id": 125,
+    "title": "Frühstück mit Quark und Birne",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "творог",
+      "с",
+      "грушей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-125.svg",
+    "url": "/de/recipes/fruhstuck-mit-quark-und-birne/index.html"
+  },
+  {
+    "id": 126,
+    "title": "Frühstück mit Quark und Beere",
+    "cat": "Frühstück",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "творог",
+      "с",
+      "ягодами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-126.svg",
+    "url": "/de/recipes/fruhstuck-mit-quark-und-beere/index.html"
+  },
+  {
+    "id": 127,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "омлет",
+      "с",
+      "брокколи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-127.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 128,
+    "title": "Frühstück mit Pilz",
+    "cat": "Frühstück",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "омлет",
+      "с",
+      "грибами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-128.svg",
+    "url": "/de/recipes/fruhstuck-mit-pilz/index.html"
+  },
+  {
+    "id": 129,
+    "title": "Frühstück mit Apfel und Quark",
+    "cat": "Frühstück",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "запеканка",
+      "из",
+      "творога",
+      "и",
+      "яблок"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-129.svg",
+    "url": "/de/recipes/fruhstuck-mit-apfel-und-quark/index.html"
+  },
+  {
+    "id": 130,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "творожная",
+      "запеканка",
+      "с",
+      "изюмом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-130.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 131,
+    "title": "Frühstück mit Apfel",
+    "cat": "Frühstück",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "оладьи",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-131.svg",
+    "url": "/de/recipes/fruhstuck-mit-apfel/index.html"
+  },
+  {
+    "id": 132,
+    "title": "Frühstück mit Zucchini",
+    "cat": "Frühstück",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "оладьи",
+      "из",
+      "кабачка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-132.svg",
+    "url": "/de/recipes/fruhstuck-mit-zucchini-132/index.html"
+  },
+  {
+    "id": 133,
+    "title": "Frühstück mit Buchweizen",
+    "cat": "Frühstück",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "гречневые",
+      "оладьи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-133.svg",
+    "url": "/de/recipes/fruhstuck-mit-buchweizen/index.html"
+  },
+  {
+    "id": 134,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "яблочные",
+      "гренки"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-134.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 135,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "пшенная",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-135.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 136,
+    "title": "Frühstück mit Reis",
+    "cat": "Frühstück",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "рисовые",
+      "оладьи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-136.svg",
+    "url": "/de/recipes/fruhstuck-mit-reis/index.html"
+  },
+  {
+    "id": 137,
+    "title": "Hausgemachtes Frühstück",
+    "cat": "Frühstück",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "яйца",
+      "с",
+      "помидорами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-137.svg",
+    "url": "/de/recipes/hausgemachtes-fruhstuck-134/index.html"
+  },
+  {
+    "id": 138,
+    "title": "Frühstück mit Birne und Hafer",
+    "cat": "Frühstück",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "завтрак",
+      "каша",
+      "из",
+      "овсяных",
+      "хлопьев",
+      "с",
+      "грушей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-138.svg",
+    "url": "/de/recipes/fruhstuck-mit-birne-und-hafer-138/index.html"
+  },
+  {
+    "id": 139,
+    "title": "Hauptgericht mit Karotte und Buchweizen und Hähnchen",
+    "cat": "Hauptgericht",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "гречка",
+      "с",
+      "курицей",
+      "и",
+      "морковью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-139.svg",
+    "url": "/de/recipes/hauptgericht-mit-karotte-und-buchweizen-und-hahnchen/index.html"
+  },
+  {
+    "id": 140,
+    "title": "Hauptgericht mit Reis und Hähnchen",
+    "cat": "Hauptgericht",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "рис",
+      "с",
+      "курицей",
+      "и",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-140.svg",
+    "url": "/de/recipes/hauptgericht-mit-reis-und-hahnchen/index.html"
+  },
+  {
+    "id": 141,
+    "title": "Hauptgericht mit Hähnchen",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "перловка",
+      "с",
+      "курицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-141.svg",
+    "url": "/de/recipes/hauptgericht-mit-hahnchen/index.html"
+  },
+  {
+    "id": 142,
+    "title": "Hauptgericht mit Kohl und Bohne",
+    "cat": "Hauptgericht",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "тушеная",
+      "капуста",
+      "с",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-142.svg",
+    "url": "/de/recipes/hauptgericht-mit-kohl-und-bohne/index.html"
+  },
+  {
+    "id": 143,
+    "title": "Hauptgericht mit Kartoffel und Kohl",
+    "cat": "Hauptgericht",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "картофель",
+      "с",
+      "капустой",
+      "в",
+      "духовке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-143.svg",
+    "url": "/de/recipes/hauptgericht-mit-kartoffel-und-kohl/index.html"
+  },
+  {
+    "id": 144,
+    "title": "Hauptgericht mit Reis und Zucchini",
+    "cat": "Hauptgericht",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "кабачки",
+      "с",
+      "рисом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-144.svg",
+    "url": "/de/recipes/hauptgericht-mit-reis-und-zucchini/index.html"
+  },
+  {
+    "id": 145,
+    "title": "Hauptgericht mit Kürbis und Linse",
+    "cat": "Hauptgericht",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "запеченная",
+      "тыква",
+      "с",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-145.svg",
+    "url": "/de/recipes/hauptgericht-mit-kurbis-und-linse/index.html"
+  },
+  {
+    "id": 146,
+    "title": "Hausgemachtes Hauptgericht",
+    "cat": "Hauptgericht",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "овощи",
+      "с",
+      "нутом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-146.svg",
+    "url": "/de/recipes/hausgemachtes-hauptgericht-151/index.html"
+  },
+  {
+    "id": 147,
+    "title": "Hauptgericht mit Buchweizen und Pilz",
+    "cat": "Hauptgericht",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "гречка",
+      "с",
+      "грибами",
+      "и",
+      "луком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-147.svg",
+    "url": "/de/recipes/hauptgericht-mit-buchweizen-und-pilz-147/index.html"
+  },
+  {
+    "id": 148,
+    "title": "Hauptgericht mit Reis und Bohne",
+    "cat": "Hauptgericht",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "рис",
+      "с",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-148.svg",
+    "url": "/de/recipes/hauptgericht-mit-reis-und-bohne/index.html"
+  },
+  {
+    "id": 149,
+    "title": "Hauptgericht mit Kartoffel",
+    "cat": "Hauptgericht",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "рыба",
+      "с",
+      "картофелем"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-149.svg",
+    "url": "/de/recipes/hauptgericht-mit-kartoffel-149/index.html"
+  },
+  {
+    "id": 150,
+    "title": "Hauptgericht mit Zucchini",
+    "cat": "Hauptgericht",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "рыба",
+      "с",
+      "кабачком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-150.svg",
+    "url": "/de/recipes/hauptgericht-mit-zucchini-150/index.html"
+  },
+  {
+    "id": 151,
+    "title": "Hausgemachtes Hauptgericht",
+    "cat": "Hauptgericht",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "куриные",
+      "котлеты",
+      "в",
+      "духовке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-151.svg",
+    "url": "/de/recipes/hausgemachtes-hauptgericht-151/index.html"
+  },
+  {
+    "id": 152,
+    "title": "Hausgemachtes Hauptgericht",
+    "cat": "Hauptgericht",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "овощные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-152.svg",
+    "url": "/de/recipes/hausgemachtes-hauptgericht-151/index.html"
+  },
+  {
+    "id": 153,
+    "title": "Hauptgericht mit Linse",
+    "cat": "Hauptgericht",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "чечевичные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-153.svg",
+    "url": "/de/recipes/hauptgericht-mit-linse/index.html"
+  },
+  {
+    "id": 154,
+    "title": "Hauptgericht mit Karotte und Bohne",
+    "cat": "Hauptgericht",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "тушеная",
+      "морковь",
+      "с",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-154.svg",
+    "url": "/de/recipes/hauptgericht-mit-karotte-und-bohne/index.html"
+  },
+  {
+    "id": 155,
+    "title": "Hauptgericht mit Kartoffel",
+    "cat": "Hauptgericht",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "картофельная",
+      "запеканка",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-155.svg",
+    "url": "/de/recipes/hauptgericht-mit-kartoffel-149/index.html"
+  },
+  {
+    "id": 156,
+    "title": "Hauptgericht mit Buchweizen",
+    "cat": "Hauptgericht",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "гречневая",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-156.svg",
+    "url": "/de/recipes/hauptgericht-mit-buchweizen/index.html"
+  },
+  {
+    "id": 157,
+    "title": "Hauptgericht mit Reis",
+    "cat": "Hauptgericht",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "рисовая",
+      "запеканка",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-157.svg",
+    "url": "/de/recipes/hauptgericht-mit-reis-157/index.html"
+  },
+  {
+    "id": 158,
+    "title": "Hauptgericht mit Kürbis",
+    "cat": "Hauptgericht",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "основное",
+      "тыквенное",
+      "рагу"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-158.svg",
+    "url": "/de/recipes/hauptgericht-mit-kurbis/index.html"
+  },
+  {
+    "id": 159,
+    "title": "Backen mit Birne",
+    "cat": "Backen",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "шарлотка",
+      "с",
+      "грушей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-159.svg",
+    "url": "/de/recipes/backen-mit-birne/index.html"
+  },
+  {
+    "id": 160,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "яблочный",
+      "кекс",
+      "с",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-160.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 161,
+    "title": "Backen mit Apfel und Hafer und Kuchen",
+    "cat": "Backen",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "овсяный",
+      "пирог",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-161.svg",
+    "url": "/de/recipes/backen-mit-apfel-und-hafer-und-kuchen/index.html"
+  },
+  {
+    "id": 162,
+    "title": "Backen mit Kuchen",
+    "cat": "Backen",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "творожный",
+      "пирог"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-162.svg",
+    "url": "/de/recipes/backen-mit-kuchen/index.html"
+  },
+  {
+    "id": 163,
+    "title": "Backen mit Karotte und Kuchen",
+    "cat": "Backen",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "морковный",
+      "пирог"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-163.svg",
+    "url": "/de/recipes/backen-mit-karotte-und-kuchen/index.html"
+  },
+  {
+    "id": 164,
+    "title": "Backen mit Kürbis und Kuchen",
+    "cat": "Backen",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "тыквенный",
+      "пирог"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-164.svg",
+    "url": "/de/recipes/backen-mit-kurbis-und-kuchen/index.html"
+  },
+  {
+    "id": 165,
+    "title": "Backen mit Kuchen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "со",
+      "смородиной"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-165.svg",
+    "url": "/de/recipes/backen-mit-kuchen/index.html"
+  },
+  {
+    "id": 166,
+    "title": "Backen mit Kuchen",
+    "cat": "Backen",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "с",
+      "вишней"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-166.svg",
+    "url": "/de/recipes/backen-mit-kuchen/index.html"
+  },
+  {
+    "id": 167,
+    "title": "Backen mit Kuchen",
+    "cat": "Backen",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "с",
+      "абрикосами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-167.svg",
+    "url": "/de/recipes/backen-mit-kuchen/index.html"
+  },
+  {
+    "id": 168,
+    "title": "Backen mit Hafer",
+    "cat": "Backen",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "домашние",
+      "овсяные",
+      "булочки"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-168.svg",
+    "url": "/de/recipes/backen-mit-hafer-168/index.html"
+  },
+  {
+    "id": 169,
+    "title": "Backen mit Apfel",
+    "cat": "Backen",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "булочки",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-169.svg",
+    "url": "/de/recipes/backen-mit-apfel-77/index.html"
+  },
+  {
+    "id": 170,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "творожные",
+      "булочки"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-170.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 171,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 35,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "печенье",
+      "с",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-171.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 172,
+    "title": "Backen mit Kürbis",
+    "cat": "Backen",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "тыквенное",
+      "печенье"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-172.svg",
+    "url": "/de/recipes/backen-mit-kurbis-172/index.html"
+  },
+  {
+    "id": 173,
+    "title": "Backen mit Beere",
+    "cat": "Backen",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "ягодные",
+      "маффины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-173.svg",
+    "url": "/de/recipes/backen-mit-beere/index.html"
+  },
+  {
+    "id": 174,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "яблочные",
+      "маффины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-174.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 175,
+    "title": "Hausgemachtes Backen",
+    "cat": "Backen",
+    "time": 35,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "творожные",
+      "маффины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-175.svg",
+    "url": "/de/recipes/hausgemachtes-backen/index.html"
+  },
+  {
+    "id": 176,
+    "title": "Backen mit Quark und Birne",
+    "cat": "Backen",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "запеченные",
+      "груши",
+      "с",
+      "творогом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-176.svg",
+    "url": "/de/recipes/backen-mit-quark-und-birne/index.html"
+  },
+  {
+    "id": 177,
+    "title": "Backen mit Apfel",
+    "cat": "Backen",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "выпечка",
+      "домашняя",
+      "галета",
+      "с",
+      "яблоками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-177.svg",
+    "url": "/de/recipes/backen-mit-apfel-77/index.html"
+  },
+  {
+    "id": 178,
+    "title": "Salat mit Karotte und Kohl und Salat",
+    "cat": "Salat",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "капусты",
+      "с",
+      "морковью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-178.svg",
+    "url": "/de/recipes/salat-mit-karotte-und-kohl-und-salat-178/index.html"
+  },
+  {
+    "id": 179,
+    "title": "Salat mit Kohl und Salat",
+    "cat": "Salat",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "огурца",
+      "и",
+      "капусты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-179.svg",
+    "url": "/de/recipes/salat-mit-kohl-und-salat-191/index.html"
+  },
+  {
+    "id": 180,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "нутом",
+      "и",
+      "помидорами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-180.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 181,
+    "title": "Salat mit Kohl und Bohne und Salat",
+    "cat": "Salat",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "фасолью",
+      "и",
+      "капустой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-181.svg",
+    "url": "/de/recipes/salat-mit-kohl-und-bohne-und-salat/index.html"
+  },
+  {
+    "id": 182,
+    "title": "Salat mit Karotte und Linse und Salat",
+    "cat": "Salat",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "чечевицей",
+      "и",
+      "морковью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-182.svg",
+    "url": "/de/recipes/salat-mit-karotte-und-linse-und-salat/index.html"
+  },
+  {
+    "id": 183,
+    "title": "Salat mit Apfel und Salat",
+    "cat": "Salat",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "яблоком",
+      "и",
+      "сельдереем"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-183.svg",
+    "url": "/de/recipes/salat-mit-apfel-und-salat-195/index.html"
+  },
+  {
+    "id": 184,
+    "title": "Salat mit Kürbis und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "печеной",
+      "тыквы"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-184.svg",
+    "url": "/de/recipes/salat-mit-kurbis-und-salat/index.html"
+  },
+  {
+    "id": 185,
+    "title": "Salat mit Bohne und Salat",
+    "cat": "Salat",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "свеклы",
+      "и",
+      "фасоли"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-185.svg",
+    "url": "/de/recipes/salat-mit-bohne-und-salat-185/index.html"
+  },
+  {
+    "id": 186,
+    "title": "Salat mit Kartoffel und Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "картофельный",
+      "салат",
+      "с",
+      "огурцом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-186.svg",
+    "url": "/de/recipes/salat-mit-kartoffel-und-salat-186/index.html"
+  },
+  {
+    "id": 187,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "редиса",
+      "с",
+      "зеленью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-187.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 188,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "брокколи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-188.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 189,
+    "title": "Salat mit Kohl und Salat",
+    "cat": "Salat",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "цветной",
+      "капусты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-189.svg",
+    "url": "/de/recipes/salat-mit-kohl-und-salat-191/index.html"
+  },
+  {
+    "id": 190,
+    "title": "Salat mit Apfel und Karotte und Salat",
+    "cat": "Salat",
+    "time": 35,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "морковный",
+      "салат",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-190.svg",
+    "url": "/de/recipes/salat-mit-apfel-und-karotte-und-salat-190/index.html"
+  },
+  {
+    "id": 191,
+    "title": "Salat mit Kohl und Salat",
+    "cat": "Salat",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "капустный",
+      "салат",
+      "с",
+      "укропом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-191.svg",
+    "url": "/de/recipes/salat-mit-kohl-und-salat-191/index.html"
+  },
+  {
+    "id": 192,
+    "title": "Salat mit Reis und Salat",
+    "cat": "Salat",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "рисом",
+      "и",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-192.svg",
+    "url": "/de/recipes/salat-mit-reis-und-salat/index.html"
+  },
+  {
+    "id": 193,
+    "title": "Salat mit Buchweizen und Salat",
+    "cat": "Salat",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "гречкой",
+      "и",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-193.svg",
+    "url": "/de/recipes/salat-mit-buchweizen-und-salat/index.html"
+  },
+  {
+    "id": 194,
+    "title": "Salat mit Salat",
+    "cat": "Salat",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "помидоров",
+      "и",
+      "зелени"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-194.svg",
+    "url": "/de/recipes/salat-mit-salat-92/index.html"
+  },
+  {
+    "id": 195,
+    "title": "Salat mit Apfel und Salat",
+    "cat": "Salat",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "огуречный",
+      "салат",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-195.svg",
+    "url": "/de/recipes/salat-mit-apfel-und-salat-195/index.html"
+  },
+  {
+    "id": 196,
+    "title": "Salat mit Kartoffel und Salat",
+    "cat": "Salat",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "салат",
+      "теплый",
+      "картофельный",
+      "салат"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-196.svg",
+    "url": "/de/recipes/salat-mit-kartoffel-und-salat-186/index.html"
+  },
+  {
+    "id": 197,
+    "title": "Getränk mit Kompott",
+    "cat": "Getränk",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "яблочный",
+      "компот",
+      "с",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-197.svg",
+    "url": "/de/recipes/getrank-mit-kompott/index.html"
+  },
+  {
+    "id": 198,
+    "title": "Getränk mit Apfel und Birne und Kompott",
+    "cat": "Getränk",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "грушевый",
+      "компот",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-198.svg",
+    "url": "/de/recipes/getrank-mit-apfel-und-birne-und-kompott/index.html"
+  },
+  {
+    "id": 199,
+    "title": "Getränk mit Kompott",
+    "cat": "Getränk",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "смородины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-199.svg",
+    "url": "/de/recipes/getrank-mit-kompott/index.html"
+  },
+  {
+    "id": 200,
+    "title": "Getränk mit Kompott",
+    "cat": "Getränk",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "вишни"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-200.svg",
+    "url": "/de/recipes/getrank-mit-kompott/index.html"
+  },
+  {
+    "id": 201,
+    "title": "Getränk mit Kompott",
+    "cat": "Getränk",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "абрикосов"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-201.svg",
+    "url": "/de/recipes/getrank-mit-kompott/index.html"
+  },
+  {
+    "id": 202,
+    "title": "Hausgemachtes Getränk",
+    "cat": "Getränk",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "морс",
+      "из",
+      "брусники"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-202.svg",
+    "url": "/de/recipes/hausgemachtes-getrank-203/index.html"
+  },
+  {
+    "id": 203,
+    "title": "Hausgemachtes Getränk",
+    "cat": "Getränk",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "морс",
+      "из",
+      "малины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-203.svg",
+    "url": "/de/recipes/hausgemachtes-getrank-203/index.html"
+  },
+  {
+    "id": 204,
+    "title": "Hausgemachtes Getränk",
+    "cat": "Getränk",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "морс",
+      "из",
+      "вишни"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-204.svg",
+    "url": "/de/recipes/hausgemachtes-getrank-203/index.html"
+  },
+  {
+    "id": 205,
+    "title": "Hausgemachtes Getränk",
+    "cat": "Getränk",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "яблочный",
+      "кисель"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-205.svg",
+    "url": "/de/recipes/hausgemachtes-getrank-203/index.html"
+  },
+  {
+    "id": 206,
+    "title": "Hausgemachtes Getränk",
+    "cat": "Getränk",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "смородиновый",
+      "кисель"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-206.svg",
+    "url": "/de/recipes/hausgemachtes-getrank-203/index.html"
+  },
+  {
+    "id": 207,
+    "title": "Getränk mit Apfel und Hafer",
+    "cat": "Getränk",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "овсяный",
+      "напиток",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-207.svg",
+    "url": "/de/recipes/getrank-mit-apfel-und-hafer/index.html"
+  },
+  {
+    "id": 208,
+    "title": "Getränk mit Tee",
+    "cat": "Getränk",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "чай",
+      "с",
+      "лимоном",
+      "и",
+      "мятой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-208.svg",
+    "url": "/de/recipes/getrank-mit-tee/index.html"
+  },
+  {
+    "id": 209,
+    "title": "Getränk mit Apfel und Tee",
+    "cat": "Getränk",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "чай",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-209.svg",
+    "url": "/de/recipes/getrank-mit-apfel-und-tee/index.html"
+  },
+  {
+    "id": 210,
+    "title": "Getränk mit Beere",
+    "cat": "Getränk",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "теплый",
+      "ягодный",
+      "напиток"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-210.svg",
+    "url": "/de/recipes/getrank-mit-beere/index.html"
+  },
+  {
+    "id": 211,
+    "title": "Getränk mit Apfel",
+    "cat": "Getränk",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "напиток",
+      "из",
+      "шиповника",
+      "и",
+      "яблока"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-211.svg",
+    "url": "/de/recipes/getrank-mit-apfel/index.html"
+  },
+  {
+    "id": 212,
+    "title": "Getränk mit Apfel und Kompott",
+    "cat": "Getränk",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "яблок",
+      "и",
+      "слив"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-212.svg",
+    "url": "/de/recipes/getrank-mit-apfel-und-kompott-212/index.html"
+  },
+  {
+    "id": 213,
+    "title": "Getränk mit Birne",
+    "cat": "Getränk",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "напиток",
+      "из",
+      "груши",
+      "и",
+      "корицы"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-213.svg",
+    "url": "/de/recipes/getrank-mit-birne/index.html"
+  },
+  {
+    "id": 214,
+    "title": "Hausgemachtes Getränk",
+    "cat": "Getränk",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "домашний",
+      "лимонный",
+      "напиток"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-214.svg",
+    "url": "/de/recipes/hausgemachtes-getrank-203/index.html"
+  },
+  {
+    "id": 215,
+    "title": "Getränk mit Beere",
+    "cat": "Getränk",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "ягодный",
+      "напиток",
+      "с",
+      "мятой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-215.svg",
+    "url": "/de/recipes/getrank-mit-beere/index.html"
+  },
+  {
+    "id": 216,
+    "title": "Getränk mit Apfel und Tee",
+    "cat": "Getränk",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "Hauptzutaten — nach Rezept",
+      "Wasser oder Kochflüssigkeit — nach Bedarf",
+      "Salz und milde Gewürze — nach Geschmack"
+    ],
+    "steps": [
+      "Zutaten vorbereiten und gründlich waschen.",
+      "Zutaten abmessen und sauberes Kochgeschirr verwenden.",
+      "Alles vollständig und sicher garen.",
+      "Frisch servieren; Reste rasch abkühlen und sicher lagern."
+    ],
+    "tags": [
+      "напиток",
+      "чай",
+      "с",
+      "сушеными",
+      "яблоками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-216.svg",
+    "url": "/de/recipes/getrank-mit-apfel-und-tee/index.html"
+  },
+  {
+    "id": 217,
+    "title": "Festlicher Olivier-Salat",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-217.svg",
+    "url": "/de/recipes/festlicher-olivier-salat/index.html"
+  },
+  {
+    "id": 218,
+    "title": "Mimosa-Salat",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-218.svg",
+    "url": "/de/recipes/mimosa-salat/index.html"
+  },
+  {
+    "id": 219,
+    "title": "Hering im Pelzmantel",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-219.svg",
+    "url": "/de/recipes/hering-im-pelzmantel/index.html"
+  },
+  {
+    "id": 220,
+    "title": "Granatapfel-Armband-Salat",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-220.svg",
+    "url": "/de/recipes/granatapfel-armband-salat/index.html"
+  },
+  {
+    "id": 221,
+    "title": "Hähnchen-Ananas-Salat",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-221.svg",
+    "url": "/de/recipes/hahnchen-ananas-salat/index.html"
+  },
+  {
+    "id": 222,
+    "title": "Krabbenstäbchen-Salat",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-222.svg",
+    "url": "/de/recipes/krabbenstabchen-salat/index.html"
+  },
+  {
+    "id": 223,
+    "title": "Caesar-Salat nach Hausart",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-223.svg",
+    "url": "/de/recipes/caesar-salat-nach-hausart/index.html"
+  },
+  {
+    "id": 224,
+    "title": "Geburtstagssalat mit Pilzen",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-224.svg",
+    "url": "/de/recipes/geburtstagssalat-mit-pilzen/index.html"
+  },
+  {
+    "id": 225,
+    "title": "Neujahrssalat mit Orange",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-225.svg",
+    "url": "/de/recipes/neujahrssalat-mit-orange/index.html"
+  },
+  {
+    "id": 226,
+    "title": "Salat mit Räucherhähnchen und Pflaumen",
+    "cat": "Salat",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "основа — 300 г",
+      "овощи — 300 г",
+      "яйца — 3 шт.",
+      "заправка — по вкусу",
+      "зелень — по вкусу"
+    ],
+    "steps": [
+      "Подготовьте и охладите ингредиенты.",
+      "Нарежьте всё аккуратными кусочками.",
+      "Смешайте с заправкой и охладите перед подачей."
+    ],
+    "tags": [
+      "салат",
+      "праздник",
+      "день рождения",
+      "новый год"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-226.svg",
+    "url": "/de/recipes/salat-mit-raucherhahnchen-und-pflaumen/index.html"
+  },
+  {
+    "id": 227,
+    "title": "Hausgemachte Honigtorte",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-227.svg",
+    "url": "/de/recipes/hausgemachte-honigtorte/index.html"
+  },
+  {
+    "id": 228,
+    "title": "Klassische Napoleon-Torte",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-228.svg",
+    "url": "/de/recipes/klassische-napoleon-torte/index.html"
+  },
+  {
+    "id": 229,
+    "title": "Red-Velvet-Torte",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-229.svg",
+    "url": "/de/recipes/red-velvet-torte/index.html"
+  },
+  {
+    "id": 230,
+    "title": "Schokoladen-Kirsch-Torte",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-230.svg",
+    "url": "/de/recipes/schokoladen-kirsch-torte/index.html"
+  },
+  {
+    "id": 231,
+    "title": "Karottenkuchen mit Frischkäsecreme",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-231.svg",
+    "url": "/de/recipes/karottenkuchen-mit-frischkasecreme/index.html"
+  },
+  {
+    "id": 232,
+    "title": "Kekskuchen ohne Backen",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-232.svg",
+    "url": "/de/recipes/kekskuchen-ohne-backen/index.html"
+  },
+  {
+    "id": 233,
+    "title": "Neujahrs-Lebkuchen",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-233.svg",
+    "url": "/de/recipes/neujahrs-lebkuchen/index.html"
+  },
+  {
+    "id": 234,
+    "title": "Mürbekekse mit Marmelade",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-234.svg",
+    "url": "/de/recipes/murbekekse-mit-marmelade/index.html"
+  },
+  {
+    "id": 235,
+    "title": "Schokoladenkekse",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-235.svg",
+    "url": "/de/recipes/schokoladenkekse/index.html"
+  },
+  {
+    "id": 236,
+    "title": "Walnusskekse",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-236.svg",
+    "url": "/de/recipes/walnusskekse/index.html"
+  },
+  {
+    "id": 237,
+    "title": "Eclairs mit Vanillecreme",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-237.svg",
+    "url": "/de/recipes/eclairs-mit-vanillecreme/index.html"
+  },
+  {
+    "id": 238,
+    "title": "Hausgemachte Donuts",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-238.svg",
+    "url": "/de/recipes/hausgemachte-donuts/index.html"
+  },
+  {
+    "id": 239,
+    "title": "Mohnbrötchen",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-239.svg",
+    "url": "/de/recipes/mohnbrotchen/index.html"
+  },
+  {
+    "id": 240,
+    "title": "Quarkhörnchen",
+    "cat": "Backen",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "мука — 250 г",
+      "масло — 120 г",
+      "сахар — 100 г",
+      "яйца — 2 шт.",
+      "крем или начинка — по вкусу"
+    ],
+    "steps": [
+      "Приготовьте тесто или основу.",
+      "Выпекайте до готовности и полностью остудите.",
+      "Добавьте начинку или крем и украсьте перед подачей."
+    ],
+    "tags": [
+      "торт",
+      "печенье",
+      "десерт",
+      "к чаю",
+      "день рождения"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/de-240.svg",
+    "url": "/de/recipes/quarkhornchen/index.html"
+  }
+]

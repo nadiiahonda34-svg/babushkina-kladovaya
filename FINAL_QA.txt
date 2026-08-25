@@ -1,0 +1,7 @@
+PERFECT ONE STATIC QA
+Recipe records checked: 1427
+Local recipe images missing: 0
+Tradition/dreambook data files missing: 0
+Search JS present: True
+Language routes present: True
+Google verification preserved: True

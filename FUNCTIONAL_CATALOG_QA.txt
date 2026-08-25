@@ -1,0 +1,15 @@
+FUNCTIONAL CATALOG FIX
+======================
+Russian recipes: 227
+Торты: 28
+К чаю: 23
+Новый год: 25
+Салаты на день рождения: 22
+Десерты: 17
+Search: live 100ms + Enter + Search button
+Filters: clickable
+Collections: clickable and search-backed
+Language selector: RU/EN/DE/ES/FR/UK routes
+Recipe modal: clickable
+PDF/print: clickable
+Photography: Unsplash remote images + CSS fallback

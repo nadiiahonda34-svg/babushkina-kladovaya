@@ -1,0 +1,38 @@
+БАБУШКИНА КЛАДОВАЯ — ПРАВИЛЬНЫЙ ЗАПУСК WORKER + D1
+
+Уже создано в Cloudflare:
+D1 database: babushkina-community
+Binding в проекте должен называться: DB
+
+ВАЖНО: этот пакет нельзя публиковать как «только Static Assets».
+В нём есть worker.js — серверная часть. Для D1 нужно развернуть именно Worker.
+
+1. Инициализировать D1 таблицы
+Cloudflare Dashboard → Storage & databases → D1 SQLite Database → babushkina-community → Console.
+Выполнить SQL из файла schema-d1.sql.
+
+2. Развернуть Worker
+Рекомендуемый способ — Wrangler из папки этого проекта:
+  npx wrangler deploy
+
+Файл wrangler.jsonc уже содержит:
+  main = worker.js
+  assets.directory = .
+  assets.binding = ASSETS
+  D1 binding = DB
+  database_name = babushkina-community
+  database_id = cc9656f5-74b0-4cdd-8b8d-c907ed6fadc1
+
+3. Проверка после deploy
+Открыть:
+  /api/health
+Правильный ответ:
+  {"ok":true,"database":"connected"}
+
+4. После этого проверить на сайте:
+- «Добавить рецепт» — запись должна появиться в recipe_submissions со status=pending.
+- «Форум» — публикация должна появиться в forum_posts и сразу показываться в форуме.
+
+Если /api/health возвращает 404, значит снова опубликованы только статические файлы, а worker.js не запущен.
+Если /api/health возвращает database_unavailable, Worker запущен, но D1 DB не привязана как DB.
+Если API отвечает ошибкой no such table, нужно выполнить schema-d1.sql в D1 Console.

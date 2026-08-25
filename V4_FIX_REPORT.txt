@@ -1,0 +1,8 @@
+V4 QA
+- Recipe cards: no longer depend on source.unsplash.com (root cause of blank cards).
+- Recipe cards render a local category visual immediately.
+- Collection photos use fixed images.unsplash.com URLs and retain gradient fallback.
+- Family traditions: opens traditions-<lang>.json in a working modal.
+- Dreambook: opens dreambook-<lang>.json in a searchable modal.
+- Header Traditions/Dreambook links call the same working handlers.
+- Recipe search, filters, collections, language switch, recipe modal, Show more retained.

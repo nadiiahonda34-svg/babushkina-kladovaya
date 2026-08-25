@@ -1,0 +1,6 @@
+LIVE HOTFIX 2026-08-25
+- Removed obsolete Add recipe UI label from all six landing pages.
+- Neutralized legacy moderation alert in live.js.
+- Cache-busted premium.css and premium.js.
+- Added no-cache headers for language landing pages to prevent stale Cloudflare/browser HTML.
+- Preserved sitemap.xml and recipe URLs.

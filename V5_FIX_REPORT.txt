@@ -1,0 +1,5 @@
+PERFECT V5
+- Recipe cards now use the same fixed image host pattern already proven to render in the live collection cards.
+- Removed the pseudo-food circles/emoji overlay from recipe cards.
+- Every recipe gets a real food photo by semantic category (salad / cake / tea-baking / general kitchen).
+- Existing search, filters, language switch, recipe modal, traditions and dreambook handlers retained.

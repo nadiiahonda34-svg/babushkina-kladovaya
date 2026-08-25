@@ -1,0 +1,12 @@
+PREMIUM MODERN REDESIGN
+- 6 localized home pages
+- responsive desktop/tablet/mobile
+- sticky glass header
+- modern editorial hero
+- fast search (100 ms)
+- category filters
+- curated occasion collections
+- recipe modal + PDF print
+- no fake recipe counter buttons
+- no endless first-screen scrolling
+- existing Google verification file preserved

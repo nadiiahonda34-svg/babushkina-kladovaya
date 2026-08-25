@@ -1,0 +1,10 @@
+ЭТА ВЕРСИЯ НАСТРОЕНА ПОД ТЕКУЩИЙ БЕСПЛАТНЫЙ АДРЕС:
+https://super-meadow-3240.nadiiahonda34.workers.dev
+
+Загрузите содержимое этого архива как новую deployment-версию того же Cloudflare Worker.
+После загрузки проверьте:
+1. главную страницу;
+2. /robots.txt;
+3. /sitemap.xml.
+
+После этого сайт можно добавлять в Google Search Console.

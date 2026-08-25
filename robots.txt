@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://super-meadow-3240.nadiiahonda34.workers.dev/sitemap.xml

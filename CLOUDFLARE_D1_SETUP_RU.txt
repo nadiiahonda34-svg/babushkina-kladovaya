@@ -1,0 +1,12 @@
+БАБУШКИНА КЛАДОВАЯ — запуск D1 без R2
+
+D1 уже создана: babushkina-community
+Binding в проекте: DB
+
+1. Откройте Cloudflare → Storage & databases → D1 SQLite Database → babushkina-community → Console.
+2. Скопируйте содержимое файла schema.sql, вставьте в Console и выполните Run/Execute.
+3. Разверните этот проект как Worker (не как только Static Assets). В проекте уже есть worker.js и wrangler.jsonc.
+4. После деплоя откройте /api/health. Должно показать: {"ok":true,"database":"connected"}.
+5. На сайте появятся кнопки «Добавить рецепт» и «Форум». Рецепты сохраняются со статусом pending; сообщения форума — published.
+
+R2 НЕ требуется для этой версии.

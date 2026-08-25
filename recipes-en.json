@@ -1,0 +1,7059 @@
+[
+  {
+    "id": 1,
+    "title": "Homestyle Soup",
+    "cat": "Soup",
+    "time": 80,
+    "rating": null,
+    "emoji": "🍲",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "борщ",
+      "свекла"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-1.svg",
+    "url": "/en/recipes/homestyle-soup-25/index.html"
+  },
+  {
+    "id": 2,
+    "title": "Soup with cabbage",
+    "cat": "Soup",
+    "time": 65,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "щи",
+      "капуста"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-2.svg",
+    "url": "/en/recipes/soup-with-cabbage/index.html"
+  },
+  {
+    "id": 3,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 55,
+    "rating": null,
+    "emoji": "🍜",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "курица",
+      "лапша"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-3.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 4,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 75,
+    "rating": null,
+    "emoji": "🫛",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "горох"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-4.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 5,
+    "title": "Soup with soup & pumpkin",
+    "cat": "Soup",
+    "time": 40,
+    "rating": null,
+    "emoji": "🎃",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "тыква",
+      "пюре"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-5.svg",
+    "url": "/en/recipes/soup-with-soup-pumpkin/index.html"
+  },
+  {
+    "id": 6,
+    "title": "Soup with soup & buckwheat",
+    "cat": "Soup",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥕",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "гречка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-6.svg",
+    "url": "/en/recipes/soup-with-soup-buckwheat/index.html"
+  },
+  {
+    "id": 7,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥞",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "сырники",
+      "творог",
+      "завтрак"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-7.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 8,
+    "title": "Breakfast with apple & oat",
+    "cat": "Breakfast",
+    "time": 15,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "каша",
+      "овсянка",
+      "яблоко"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-8.svg",
+    "url": "/en/recipes/breakfast-with-apple-oat-122/index.html"
+  },
+  {
+    "id": 9,
+    "title": "Breakfast with pumpkin",
+    "cat": "Breakfast",
+    "time": 35,
+    "rating": null,
+    "emoji": "🎃",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "каша",
+      "пшено",
+      "тыква"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-9.svg",
+    "url": "/en/recipes/breakfast-with-pumpkin/index.html"
+  },
+  {
+    "id": 10,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 15,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "омлет",
+      "яйца"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-10.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 11,
+    "title": "Main dish with buckwheat & mushroom",
+    "cat": "Main dish",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍄",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "гречка",
+      "грибы"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-11.svg",
+    "url": "/en/recipes/main-dish-with-buckwheat-mushroom-147/index.html"
+  },
+  {
+    "id": 12,
+    "title": "Main dish with potato",
+    "cat": "Main dish",
+    "time": 60,
+    "rating": null,
+    "emoji": "🥔",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "картофель",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-12.svg",
+    "url": "/en/recipes/main-dish-with-potato-149/index.html"
+  },
+  {
+    "id": 13,
+    "title": "Main dish with cabbage",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥬",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "капуста",
+      "овощи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-13.svg",
+    "url": "/en/recipes/main-dish-with-cabbage/index.html"
+  },
+  {
+    "id": 14,
+    "title": "Homestyle Main dish",
+    "cat": "Main dish",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "индейка",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-14.svg",
+    "url": "/en/recipes/homestyle-main-dish/index.html"
+  },
+  {
+    "id": 15,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 55,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "пирог",
+      "яблоко",
+      "шарлотка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-15.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 16,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍰",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "творог",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-16.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 17,
+    "title": "Baking with carrot",
+    "cat": "Baking",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍪",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "печенье",
+      "морковь"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-17.svg",
+    "url": "/en/recipes/baking-with-carrot/index.html"
+  },
+  {
+    "id": 18,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥞",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "оладьи",
+      "кефир"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-18.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 19,
+    "title": "Drink with apple & compote",
+    "cat": "Drink",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍎",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "компот",
+      "яблоко",
+      "напиток"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-19.svg",
+    "url": "/en/recipes/drink-with-apple-compote-212/index.html"
+  },
+  {
+    "id": 20,
+    "title": "Drink with apple & tea",
+    "cat": "Drink",
+    "time": 10,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "чай",
+      "мята",
+      "яблоко"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-20.svg",
+    "url": "/en/recipes/drink-with-apple-tea-216/index.html"
+  },
+  {
+    "id": 21,
+    "title": "Drink with berry",
+    "cat": "Drink",
+    "time": 20,
+    "rating": null,
+    "emoji": "🫐",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "морс",
+      "ягоды"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-21.svg",
+    "url": "/en/recipes/drink-with-berry-210/index.html"
+  },
+  {
+    "id": 22,
+    "title": "Salad with apple & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "свекла",
+      "яблоко"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-22.svg",
+    "url": "/en/recipes/salad-with-apple-salad/index.html"
+  },
+  {
+    "id": 23,
+    "title": "Homestyle Salad",
+    "cat": "Salad",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "винегрет"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-23.svg",
+    "url": "/en/recipes/homestyle-salad/index.html"
+  },
+  {
+    "id": 24,
+    "title": "Salad with carrot & cabbage & salad",
+    "cat": "Salad",
+    "time": 15,
+    "rating": null,
+    "emoji": "🥬",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "капуста",
+      "морковь"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-24.svg",
+    "url": "/en/recipes/salad-with-carrot-cabbage-salad-178/index.html"
+  },
+  {
+    "id": 25,
+    "title": "Homestyle Soup",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "рассольник",
+      "с",
+      "перловкой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-25.svg",
+    "url": "/en/recipes/homestyle-soup-25/index.html"
+  },
+  {
+    "id": 26,
+    "title": "Soup with soup & zucchini",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "овощной",
+      "суп",
+      "с",
+      "кабачком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-26.svg",
+    "url": "/en/recipes/soup-with-soup-zucchini/index.html"
+  },
+  {
+    "id": 27,
+    "title": "Soup with soup & lentil",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-27.svg",
+    "url": "/en/recipes/soup-with-soup-lentil-101/index.html"
+  },
+  {
+    "id": 28,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "фрикадельками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-28.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 29,
+    "title": "Soup with soup & potato",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "картофельный",
+      "суп",
+      "с",
+      "укропом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-29.svg",
+    "url": "/en/recipes/soup-with-soup-potato-120/index.html"
+  },
+  {
+    "id": 30,
+    "title": "Soup with soup & rice",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "рисовый",
+      "суп",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-30.svg",
+    "url": "/en/recipes/soup-with-soup-rice-105/index.html"
+  },
+  {
+    "id": 31,
+    "title": "Soup with soup & cabbage",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "цветной",
+      "капустой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-31.svg",
+    "url": "/en/recipes/soup-with-soup-cabbage-119/index.html"
+  },
+  {
+    "id": 32,
+    "title": "Soup with soup & bean",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "фасолевый",
+      "суп"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-32.svg",
+    "url": "/en/recipes/soup-with-soup-bean-112/index.html"
+  },
+  {
+    "id": 33,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "вермишелью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-33.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 34,
+    "title": "Soup with soup & cabbage",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "крем-суп",
+      "из",
+      "цветной",
+      "капусты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-34.svg",
+    "url": "/en/recipes/soup-with-soup-cabbage-119/index.html"
+  },
+  {
+    "id": 35,
+    "title": "Soup with soup & zucchini",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп-пюре",
+      "из",
+      "кабачка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-35.svg",
+    "url": "/en/recipes/soup-with-soup-zucchini/index.html"
+  },
+  {
+    "id": 36,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "перловый",
+      "суп",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-36.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 37,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "зеленым",
+      "горошком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-37.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 38,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "томатный",
+      "овощной",
+      "суп"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-38.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 39,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "брокколи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-39.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 40,
+    "title": "Breakfast with apple & rice",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "рисовая",
+      "каша",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-40.svg",
+    "url": "/en/recipes/breakfast-with-apple-rice/index.html"
+  },
+  {
+    "id": 41,
+    "title": "Breakfast with berry",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "манная",
+      "каша",
+      "с",
+      "ягодами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-41.svg",
+    "url": "/en/recipes/breakfast-with-berry/index.html"
+  },
+  {
+    "id": 42,
+    "title": "Breakfast with buckwheat",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "гречневая",
+      "каша",
+      "на",
+      "молоке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-42.svg",
+    "url": "/en/recipes/breakfast-with-buckwheat-133/index.html"
+  },
+  {
+    "id": 43,
+    "title": "Breakfast with apple",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "пшенная",
+      "каша",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-43.svg",
+    "url": "/en/recipes/breakfast-with-apple/index.html"
+  },
+  {
+    "id": 44,
+    "title": "Breakfast with pear & oat",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "овсянка",
+      "с",
+      "грушей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-44.svg",
+    "url": "/en/recipes/breakfast-with-pear-oat-138/index.html"
+  },
+  {
+    "id": 45,
+    "title": "Breakfast with berry & oat",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "овсянка",
+      "с",
+      "ягодами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-45.svg",
+    "url": "/en/recipes/breakfast-with-berry-oat/index.html"
+  },
+  {
+    "id": 46,
+    "title": "Breakfast with apple & cottage cheese",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "творог",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-46.svg",
+    "url": "/en/recipes/breakfast-with-apple-cottage-cheese-129/index.html"
+  },
+  {
+    "id": 47,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "запеченные",
+      "сырники"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-47.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 48,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "омлет",
+      "с",
+      "помидорами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-48.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 49,
+    "title": "Breakfast with zucchini",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "омлет",
+      "с",
+      "кабачком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-49.svg",
+    "url": "/en/recipes/breakfast-with-zucchini/index.html"
+  },
+  {
+    "id": 50,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "яичная",
+      "запеканка",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-50.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 51,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "ленивые",
+      "вареники"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-51.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 52,
+    "title": "Breakfast with rice",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "рисовая",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-52.svg",
+    "url": "/en/recipes/breakfast-with-rice/index.html"
+  },
+  {
+    "id": 53,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "гренки",
+      "с",
+      "яйцом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-53.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 54,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "творожные",
+      "оладьи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-54.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 55,
+    "title": "Main dish with buckwheat",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "гречка",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-55.svg",
+    "url": "/en/recipes/main-dish-with-buckwheat-156/index.html"
+  },
+  {
+    "id": 56,
+    "title": "Main dish with rice",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "рис",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-56.svg",
+    "url": "/en/recipes/main-dish-with-rice-157/index.html"
+  },
+  {
+    "id": 57,
+    "title": "Main dish with mushroom",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "перловка",
+      "с",
+      "грибами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-57.svg",
+    "url": "/en/recipes/main-dish-with-mushroom/index.html"
+  },
+  {
+    "id": 58,
+    "title": "Main dish with potato & mushroom",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "картофель",
+      "с",
+      "грибами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-58.svg",
+    "url": "/en/recipes/main-dish-with-potato-mushroom/index.html"
+  },
+  {
+    "id": 59,
+    "title": "Main dish with potato",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "запеченный",
+      "картофель",
+      "с",
+      "травами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-59.svg",
+    "url": "/en/recipes/main-dish-with-potato-149/index.html"
+  },
+  {
+    "id": 60,
+    "title": "Homestyle Main dish",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "овощное",
+      "рагу"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-60.svg",
+    "url": "/en/recipes/homestyle-main-dish/index.html"
+  },
+  {
+    "id": 61,
+    "title": "Main dish with zucchini",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "рагу",
+      "из",
+      "кабачков"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-61.svg",
+    "url": "/en/recipes/main-dish-with-zucchini-150/index.html"
+  },
+  {
+    "id": 62,
+    "title": "Main dish with bean",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "тушеная",
+      "фасоль",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-62.svg",
+    "url": "/en/recipes/main-dish-with-bean/index.html"
+  },
+  {
+    "id": 63,
+    "title": "Main dish with carrot & lentil",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "чечевица",
+      "с",
+      "морковью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-63.svg",
+    "url": "/en/recipes/main-dish-with-carrot-lentil/index.html"
+  },
+  {
+    "id": 64,
+    "title": "Main dish with buckwheat & chicken",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "курица",
+      "с",
+      "гречкой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-64.svg",
+    "url": "/en/recipes/main-dish-with-buckwheat-chicken/index.html"
+  },
+  {
+    "id": 65,
+    "title": "Main dish with chicken",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "курица",
+      "с",
+      "овощами",
+      "в",
+      "духовке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-65.svg",
+    "url": "/en/recipes/main-dish-with-chicken/index.html"
+  },
+  {
+    "id": 66,
+    "title": "Homestyle Main dish",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "рыба",
+      "с",
+      "овощами",
+      "в",
+      "духовке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-66.svg",
+    "url": "/en/recipes/homestyle-main-dish/index.html"
+  },
+  {
+    "id": 67,
+    "title": "Main dish with cabbage",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "капустные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-67.svg",
+    "url": "/en/recipes/main-dish-with-cabbage/index.html"
+  },
+  {
+    "id": 68,
+    "title": "Main dish with carrot",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "морковные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-68.svg",
+    "url": "/en/recipes/main-dish-with-carrot/index.html"
+  },
+  {
+    "id": 69,
+    "title": "Main dish with potato",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "картофельные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-69.svg",
+    "url": "/en/recipes/main-dish-with-potato-149/index.html"
+  },
+  {
+    "id": 70,
+    "title": "Baking with pear & pie",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "с",
+      "грушами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-70.svg",
+    "url": "/en/recipes/baking-with-pear-pie/index.html"
+  },
+  {
+    "id": 71,
+    "title": "Baking with pie",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "со",
+      "сливами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-71.svg",
+    "url": "/en/recipes/baking-with-pie-162/index.html"
+  },
+  {
+    "id": 72,
+    "title": "Baking with berry & pie",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "с",
+      "ягодами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-72.svg",
+    "url": "/en/recipes/baking-with-berry-pie/index.html"
+  },
+  {
+    "id": 73,
+    "title": "Baking with apple & cottage cheese",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "печеные",
+      "яблоки",
+      "с",
+      "творогом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-73.svg",
+    "url": "/en/recipes/baking-with-apple-cottage-cheese/index.html"
+  },
+  {
+    "id": 74,
+    "title": "Baking with oat",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "овсяное",
+      "печенье"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-74.svg",
+    "url": "/en/recipes/baking-with-oat/index.html"
+  },
+  {
+    "id": 75,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "творожное",
+      "печенье"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-75.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 76,
+    "title": "Baking with apple",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "печенье",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-76.svg",
+    "url": "/en/recipes/baking-with-apple/index.html"
+  },
+  {
+    "id": 77,
+    "title": "Baking with apple",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "кекс",
+      "с",
+      "яблоками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-77.svg",
+    "url": "/en/recipes/baking-with-apple/index.html"
+  },
+  {
+    "id": 78,
+    "title": "Baking with carrot",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "морковный",
+      "кекс"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-78.svg",
+    "url": "/en/recipes/baking-with-carrot/index.html"
+  },
+  {
+    "id": 79,
+    "title": "Baking with pumpkin",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "тыквенный",
+      "кекс"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-79.svg",
+    "url": "/en/recipes/baking-with-pumpkin-172/index.html"
+  },
+  {
+    "id": 80,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "булочки",
+      "с",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-80.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 81,
+    "title": "Baking with cottage cheese",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "ватрушки",
+      "с",
+      "творогом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-81.svg",
+    "url": "/en/recipes/baking-with-cottage-cheese/index.html"
+  },
+  {
+    "id": 82,
+    "title": "Baking with cabbage",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "пирожки",
+      "с",
+      "капустой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-82.svg",
+    "url": "/en/recipes/baking-with-cabbage/index.html"
+  },
+  {
+    "id": 83,
+    "title": "Baking with apple",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "пирожки",
+      "с",
+      "яблоками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-83.svg",
+    "url": "/en/recipes/baking-with-apple/index.html"
+  },
+  {
+    "id": 84,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "манник",
+      "домашний"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-84.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 85,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "огурцов",
+      "и",
+      "помидоров"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-85.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 86,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "редиса",
+      "и",
+      "огурца"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-86.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 87,
+    "title": "Salad with apple & carrot & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "моркови",
+      "и",
+      "яблока"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-87.svg",
+    "url": "/en/recipes/salad-with-apple-carrot-salad-190/index.html"
+  },
+  {
+    "id": 88,
+    "title": "Salad with apple & cabbage & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "капусты",
+      "и",
+      "яблока"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-88.svg",
+    "url": "/en/recipes/salad-with-apple-cabbage-salad/index.html"
+  },
+  {
+    "id": 89,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "свеклы",
+      "с",
+      "черносливом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-89.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 90,
+    "title": "Salad with bean & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "фасолью",
+      "и",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-90.svg",
+    "url": "/en/recipes/salad-with-bean-salad-185/index.html"
+  },
+  {
+    "id": 91,
+    "title": "Salad with potato & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "картофелем",
+      "и",
+      "зеленью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-91.svg",
+    "url": "/en/recipes/salad-with-potato-salad-196/index.html"
+  },
+  {
+    "id": 92,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "огурцов",
+      "с",
+      "укропом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-92.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 93,
+    "title": "Salad with pumpkin & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "теплый",
+      "салат",
+      "с",
+      "тыквой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-93.svg",
+    "url": "/en/recipes/salad-with-pumpkin-salad-184/index.html"
+  },
+  {
+    "id": 94,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "запеченной",
+      "свеклы"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-94.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 95,
+    "title": "Salad with lentil & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-95.svg",
+    "url": "/en/recipes/salad-with-lentil-salad/index.html"
+  },
+  {
+    "id": 96,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "помидоров",
+      "с",
+      "луком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-96.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 97,
+    "title": "Salad with carrot & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "моркови",
+      "с",
+      "изюмом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-97.svg",
+    "url": "/en/recipes/salad-with-carrot-salad/index.html"
+  },
+  {
+    "id": 98,
+    "title": "Drink with pear & compote",
+    "cat": "Drink",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "груш"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-98.svg",
+    "url": "/en/recipes/drink-with-pear-compote/index.html"
+  },
+  {
+    "id": 99,
+    "title": "Drink with compote",
+    "cat": "Drink",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "сухофруктов"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-99.svg",
+    "url": "/en/recipes/drink-with-compote/index.html"
+  },
+  {
+    "id": 100,
+    "title": "Drink with compote",
+    "cat": "Drink",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "слив"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-100.svg",
+    "url": "/en/recipes/drink-with-compote/index.html"
+  },
+  {
+    "id": 101,
+    "title": "Soup with soup & lentil",
+    "cat": "Soup",
+    "time": 35,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "красной",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-101.svg",
+    "url": "/en/recipes/soup-with-soup-lentil-101/index.html"
+  },
+  {
+    "id": 102,
+    "title": "Soup with soup & rice",
+    "cat": "Soup",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "куриный",
+      "суп",
+      "с",
+      "рисом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-102.svg",
+    "url": "/en/recipes/soup-with-soup-rice-105/index.html"
+  },
+  {
+    "id": 103,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "овощной",
+      "суп",
+      "с",
+      "перловкой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-103.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 104,
+    "title": "Soup with soup & bean",
+    "cat": "Soup",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "из",
+      "белой",
+      "фасоли"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-104.svg",
+    "url": "/en/recipes/soup-with-soup-bean-112/index.html"
+  },
+  {
+    "id": 105,
+    "title": "Soup with soup & rice",
+    "cat": "Soup",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "томатный",
+      "суп",
+      "с",
+      "рисом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-105.svg",
+    "url": "/en/recipes/soup-with-soup-rice-105/index.html"
+  },
+  {
+    "id": 106,
+    "title": "Soup with soup & pumpkin & lentil",
+    "cat": "Soup",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "тыквой",
+      "и",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-106.svg",
+    "url": "/en/recipes/soup-with-soup-pumpkin-lentil/index.html"
+  },
+  {
+    "id": 107,
+    "title": "Soup with soup & potato & mushroom",
+    "cat": "Soup",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "картофельный",
+      "суп",
+      "с",
+      "грибами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-107.svg",
+    "url": "/en/recipes/soup-with-soup-potato-mushroom/index.html"
+  },
+  {
+    "id": 108,
+    "title": "Soup with soup & cabbage & bean",
+    "cat": "Soup",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "капустный",
+      "суп",
+      "с",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-108.svg",
+    "url": "/en/recipes/soup-with-soup-cabbage-bean/index.html"
+  },
+  {
+    "id": 109,
+    "title": "Soup with soup & rice & zucchini",
+    "cat": "Soup",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "кабачком",
+      "и",
+      "рисом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-109.svg",
+    "url": "/en/recipes/soup-with-soup-rice-zucchini/index.html"
+  },
+  {
+    "id": 110,
+    "title": "Soup with soup & carrot",
+    "cat": "Soup",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "морковный",
+      "крем-суп"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-110.svg",
+    "url": "/en/recipes/soup-with-soup-carrot-117/index.html"
+  },
+  {
+    "id": 111,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "свекольный",
+      "овощной",
+      "суп"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-111.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 112,
+    "title": "Soup with soup & bean",
+    "cat": "Soup",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "зеленой",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-112.svg",
+    "url": "/en/recipes/soup-with-soup-bean-112/index.html"
+  },
+  {
+    "id": 113,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "куриный",
+      "суп",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-113.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 114,
+    "title": "Soup with soup & buckwheat",
+    "cat": "Soup",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "гречкой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-114.svg",
+    "url": "/en/recipes/soup-with-soup-buckwheat/index.html"
+  },
+  {
+    "id": 115,
+    "title": "Soup with soup & oat",
+    "cat": "Soup",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "овощной",
+      "суп",
+      "с",
+      "овсяными",
+      "хлопьями"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-115.svg",
+    "url": "/en/recipes/soup-with-soup-oat/index.html"
+  },
+  {
+    "id": 116,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп-пюре",
+      "из",
+      "брокколи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-116.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 117,
+    "title": "Soup with soup & carrot",
+    "cat": "Soup",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп-пюре",
+      "из",
+      "моркови"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-117.svg",
+    "url": "/en/recipes/soup-with-soup-carrot-117/index.html"
+  },
+  {
+    "id": 118,
+    "title": "Soup with soup",
+    "cat": "Soup",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "нутом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-118.svg",
+    "url": "/en/recipes/soup-with-soup-33/index.html"
+  },
+  {
+    "id": 119,
+    "title": "Soup with soup & cabbage",
+    "cat": "Soup",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "легкий",
+      "суп",
+      "с",
+      "капустой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-119.svg",
+    "url": "/en/recipes/soup-with-soup-cabbage-119/index.html"
+  },
+  {
+    "id": 120,
+    "title": "Soup with soup & potato",
+    "cat": "Soup",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥣",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "суп",
+      "суп",
+      "с",
+      "картофелем",
+      "и",
+      "горошком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-120.svg",
+    "url": "/en/recipes/soup-with-soup-potato-120/index.html"
+  },
+  {
+    "id": 121,
+    "title": "Breakfast with oat",
+    "cat": "Breakfast",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "овсянка",
+      "с",
+      "бананом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-121.svg",
+    "url": "/en/recipes/breakfast-with-oat/index.html"
+  },
+  {
+    "id": 122,
+    "title": "Breakfast with apple & oat",
+    "cat": "Breakfast",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "овсянка",
+      "с",
+      "яблоком",
+      "и",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-122.svg",
+    "url": "/en/recipes/breakfast-with-apple-oat-122/index.html"
+  },
+  {
+    "id": 123,
+    "title": "Breakfast with apple & buckwheat",
+    "cat": "Breakfast",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "гречневая",
+      "каша",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-123.svg",
+    "url": "/en/recipes/breakfast-with-apple-buckwheat/index.html"
+  },
+  {
+    "id": 124,
+    "title": "Breakfast with pumpkin & rice",
+    "cat": "Breakfast",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "рисовая",
+      "каша",
+      "с",
+      "тыквой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-124.svg",
+    "url": "/en/recipes/breakfast-with-pumpkin-rice/index.html"
+  },
+  {
+    "id": 125,
+    "title": "Breakfast with cottage cheese & pear",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "творог",
+      "с",
+      "грушей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-125.svg",
+    "url": "/en/recipes/breakfast-with-cottage-cheese-pear/index.html"
+  },
+  {
+    "id": 126,
+    "title": "Breakfast with cottage cheese & berry",
+    "cat": "Breakfast",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "творог",
+      "с",
+      "ягодами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-126.svg",
+    "url": "/en/recipes/breakfast-with-cottage-cheese-berry/index.html"
+  },
+  {
+    "id": 127,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "омлет",
+      "с",
+      "брокколи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-127.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 128,
+    "title": "Breakfast with mushroom",
+    "cat": "Breakfast",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "омлет",
+      "с",
+      "грибами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-128.svg",
+    "url": "/en/recipes/breakfast-with-mushroom/index.html"
+  },
+  {
+    "id": 129,
+    "title": "Breakfast with apple & cottage cheese",
+    "cat": "Breakfast",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "запеканка",
+      "из",
+      "творога",
+      "и",
+      "яблок"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-129.svg",
+    "url": "/en/recipes/breakfast-with-apple-cottage-cheese-129/index.html"
+  },
+  {
+    "id": 130,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "творожная",
+      "запеканка",
+      "с",
+      "изюмом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-130.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 131,
+    "title": "Breakfast with apple",
+    "cat": "Breakfast",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "оладьи",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-131.svg",
+    "url": "/en/recipes/breakfast-with-apple/index.html"
+  },
+  {
+    "id": 132,
+    "title": "Breakfast with zucchini",
+    "cat": "Breakfast",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "оладьи",
+      "из",
+      "кабачка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-132.svg",
+    "url": "/en/recipes/breakfast-with-zucchini/index.html"
+  },
+  {
+    "id": 133,
+    "title": "Breakfast with buckwheat",
+    "cat": "Breakfast",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "гречневые",
+      "оладьи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-133.svg",
+    "url": "/en/recipes/breakfast-with-buckwheat-133/index.html"
+  },
+  {
+    "id": 134,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "яблочные",
+      "гренки"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-134.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 135,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "пшенная",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-135.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 136,
+    "title": "Breakfast with rice",
+    "cat": "Breakfast",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "рисовые",
+      "оладьи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-136.svg",
+    "url": "/en/recipes/breakfast-with-rice/index.html"
+  },
+  {
+    "id": 137,
+    "title": "Homestyle Breakfast",
+    "cat": "Breakfast",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "яйца",
+      "с",
+      "помидорами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-137.svg",
+    "url": "/en/recipes/homestyle-breakfast-50/index.html"
+  },
+  {
+    "id": 138,
+    "title": "Breakfast with pear & oat",
+    "cat": "Breakfast",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍳",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "завтрак",
+      "каша",
+      "из",
+      "овсяных",
+      "хлопьев",
+      "с",
+      "грушей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-138.svg",
+    "url": "/en/recipes/breakfast-with-pear-oat-138/index.html"
+  },
+  {
+    "id": 139,
+    "title": "Main dish with carrot & buckwheat & chicken",
+    "cat": "Main dish",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "гречка",
+      "с",
+      "курицей",
+      "и",
+      "морковью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-139.svg",
+    "url": "/en/recipes/main-dish-with-carrot-buckwheat-chicken/index.html"
+  },
+  {
+    "id": 140,
+    "title": "Main dish with rice & chicken",
+    "cat": "Main dish",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "рис",
+      "с",
+      "курицей",
+      "и",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-140.svg",
+    "url": "/en/recipes/main-dish-with-rice-chicken/index.html"
+  },
+  {
+    "id": 141,
+    "title": "Main dish with chicken",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "перловка",
+      "с",
+      "курицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-141.svg",
+    "url": "/en/recipes/main-dish-with-chicken/index.html"
+  },
+  {
+    "id": 142,
+    "title": "Main dish with cabbage & bean",
+    "cat": "Main dish",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "тушеная",
+      "капуста",
+      "с",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-142.svg",
+    "url": "/en/recipes/main-dish-with-cabbage-bean/index.html"
+  },
+  {
+    "id": 143,
+    "title": "Main dish with potato & cabbage",
+    "cat": "Main dish",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "картофель",
+      "с",
+      "капустой",
+      "в",
+      "духовке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-143.svg",
+    "url": "/en/recipes/main-dish-with-potato-cabbage/index.html"
+  },
+  {
+    "id": 144,
+    "title": "Main dish with rice & zucchini",
+    "cat": "Main dish",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "кабачки",
+      "с",
+      "рисом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-144.svg",
+    "url": "/en/recipes/main-dish-with-rice-zucchini/index.html"
+  },
+  {
+    "id": 145,
+    "title": "Main dish with pumpkin & lentil",
+    "cat": "Main dish",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "запеченная",
+      "тыква",
+      "с",
+      "чечевицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-145.svg",
+    "url": "/en/recipes/main-dish-with-pumpkin-lentil/index.html"
+  },
+  {
+    "id": 146,
+    "title": "Homestyle Main dish",
+    "cat": "Main dish",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "овощи",
+      "с",
+      "нутом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-146.svg",
+    "url": "/en/recipes/homestyle-main-dish/index.html"
+  },
+  {
+    "id": 147,
+    "title": "Main dish with buckwheat & mushroom",
+    "cat": "Main dish",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "гречка",
+      "с",
+      "грибами",
+      "и",
+      "луком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-147.svg",
+    "url": "/en/recipes/main-dish-with-buckwheat-mushroom-147/index.html"
+  },
+  {
+    "id": 148,
+    "title": "Main dish with rice & bean",
+    "cat": "Main dish",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "рис",
+      "с",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-148.svg",
+    "url": "/en/recipes/main-dish-with-rice-bean/index.html"
+  },
+  {
+    "id": 149,
+    "title": "Main dish with potato",
+    "cat": "Main dish",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "рыба",
+      "с",
+      "картофелем"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-149.svg",
+    "url": "/en/recipes/main-dish-with-potato-149/index.html"
+  },
+  {
+    "id": 150,
+    "title": "Main dish with zucchini",
+    "cat": "Main dish",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "рыба",
+      "с",
+      "кабачком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-150.svg",
+    "url": "/en/recipes/main-dish-with-zucchini-150/index.html"
+  },
+  {
+    "id": 151,
+    "title": "Homestyle Main dish",
+    "cat": "Main dish",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "куриные",
+      "котлеты",
+      "в",
+      "духовке"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-151.svg",
+    "url": "/en/recipes/homestyle-main-dish/index.html"
+  },
+  {
+    "id": 152,
+    "title": "Homestyle Main dish",
+    "cat": "Main dish",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "овощные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-152.svg",
+    "url": "/en/recipes/homestyle-main-dish/index.html"
+  },
+  {
+    "id": 153,
+    "title": "Main dish with lentil",
+    "cat": "Main dish",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "чечевичные",
+      "котлеты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-153.svg",
+    "url": "/en/recipes/main-dish-with-lentil/index.html"
+  },
+  {
+    "id": 154,
+    "title": "Main dish with carrot & bean",
+    "cat": "Main dish",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "тушеная",
+      "морковь",
+      "с",
+      "фасолью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-154.svg",
+    "url": "/en/recipes/main-dish-with-carrot-bean/index.html"
+  },
+  {
+    "id": 155,
+    "title": "Main dish with potato",
+    "cat": "Main dish",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "картофельная",
+      "запеканка",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-155.svg",
+    "url": "/en/recipes/main-dish-with-potato-149/index.html"
+  },
+  {
+    "id": 156,
+    "title": "Main dish with buckwheat",
+    "cat": "Main dish",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "гречневая",
+      "запеканка"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-156.svg",
+    "url": "/en/recipes/main-dish-with-buckwheat-156/index.html"
+  },
+  {
+    "id": 157,
+    "title": "Main dish with rice",
+    "cat": "Main dish",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "рисовая",
+      "запеканка",
+      "с",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-157.svg",
+    "url": "/en/recipes/main-dish-with-rice-157/index.html"
+  },
+  {
+    "id": 158,
+    "title": "Main dish with pumpkin",
+    "cat": "Main dish",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍽️",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "основное",
+      "тыквенное",
+      "рагу"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-158.svg",
+    "url": "/en/recipes/main-dish-with-pumpkin/index.html"
+  },
+  {
+    "id": 159,
+    "title": "Baking with pear",
+    "cat": "Baking",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "шарлотка",
+      "с",
+      "грушей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-159.svg",
+    "url": "/en/recipes/baking-with-pear/index.html"
+  },
+  {
+    "id": 160,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "яблочный",
+      "кекс",
+      "с",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-160.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 161,
+    "title": "Baking with apple & oat & pie",
+    "cat": "Baking",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "овсяный",
+      "пирог",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-161.svg",
+    "url": "/en/recipes/baking-with-apple-oat-pie/index.html"
+  },
+  {
+    "id": 162,
+    "title": "Baking with pie",
+    "cat": "Baking",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "творожный",
+      "пирог"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-162.svg",
+    "url": "/en/recipes/baking-with-pie-162/index.html"
+  },
+  {
+    "id": 163,
+    "title": "Baking with carrot & pie",
+    "cat": "Baking",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "морковный",
+      "пирог"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-163.svg",
+    "url": "/en/recipes/baking-with-carrot-pie/index.html"
+  },
+  {
+    "id": 164,
+    "title": "Baking with pumpkin & pie",
+    "cat": "Baking",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "тыквенный",
+      "пирог"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-164.svg",
+    "url": "/en/recipes/baking-with-pumpkin-pie/index.html"
+  },
+  {
+    "id": 165,
+    "title": "Baking with pie",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "со",
+      "смородиной"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-165.svg",
+    "url": "/en/recipes/baking-with-pie-162/index.html"
+  },
+  {
+    "id": 166,
+    "title": "Baking with pie",
+    "cat": "Baking",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "с",
+      "вишней"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-166.svg",
+    "url": "/en/recipes/baking-with-pie-162/index.html"
+  },
+  {
+    "id": 167,
+    "title": "Baking with pie",
+    "cat": "Baking",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "пирог",
+      "с",
+      "абрикосами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-167.svg",
+    "url": "/en/recipes/baking-with-pie-162/index.html"
+  },
+  {
+    "id": 168,
+    "title": "Baking with oat",
+    "cat": "Baking",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "домашние",
+      "овсяные",
+      "булочки"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-168.svg",
+    "url": "/en/recipes/baking-with-oat/index.html"
+  },
+  {
+    "id": 169,
+    "title": "Baking with apple",
+    "cat": "Baking",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "булочки",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-169.svg",
+    "url": "/en/recipes/baking-with-apple/index.html"
+  },
+  {
+    "id": 170,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "творожные",
+      "булочки"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-170.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 171,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 35,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "печенье",
+      "с",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-171.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 172,
+    "title": "Baking with pumpkin",
+    "cat": "Baking",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "тыквенное",
+      "печенье"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-172.svg",
+    "url": "/en/recipes/baking-with-pumpkin-172/index.html"
+  },
+  {
+    "id": 173,
+    "title": "Baking with berry",
+    "cat": "Baking",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "ягодные",
+      "маффины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-173.svg",
+    "url": "/en/recipes/baking-with-berry/index.html"
+  },
+  {
+    "id": 174,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "яблочные",
+      "маффины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-174.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 175,
+    "title": "Homestyle Baking",
+    "cat": "Baking",
+    "time": 35,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "творожные",
+      "маффины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-175.svg",
+    "url": "/en/recipes/homestyle-baking-80/index.html"
+  },
+  {
+    "id": 176,
+    "title": "Baking with cottage cheese & pear",
+    "cat": "Baking",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "запеченные",
+      "груши",
+      "с",
+      "творогом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-176.svg",
+    "url": "/en/recipes/baking-with-cottage-cheese-pear/index.html"
+  },
+  {
+    "id": 177,
+    "title": "Baking with apple",
+    "cat": "Baking",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥧",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "выпечка",
+      "домашняя",
+      "галета",
+      "с",
+      "яблоками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-177.svg",
+    "url": "/en/recipes/baking-with-apple/index.html"
+  },
+  {
+    "id": 178,
+    "title": "Salad with carrot & cabbage & salad",
+    "cat": "Salad",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "капусты",
+      "с",
+      "морковью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-178.svg",
+    "url": "/en/recipes/salad-with-carrot-cabbage-salad-178/index.html"
+  },
+  {
+    "id": 179,
+    "title": "Salad with cabbage & salad",
+    "cat": "Salad",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "огурца",
+      "и",
+      "капусты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-179.svg",
+    "url": "/en/recipes/salad-with-cabbage-salad-191/index.html"
+  },
+  {
+    "id": 180,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "нутом",
+      "и",
+      "помидорами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-180.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 181,
+    "title": "Salad with cabbage & bean & salad",
+    "cat": "Salad",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "фасолью",
+      "и",
+      "капустой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-181.svg",
+    "url": "/en/recipes/salad-with-cabbage-bean-salad/index.html"
+  },
+  {
+    "id": 182,
+    "title": "Salad with carrot & lentil & salad",
+    "cat": "Salad",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "чечевицей",
+      "и",
+      "морковью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-182.svg",
+    "url": "/en/recipes/salad-with-carrot-lentil-salad/index.html"
+  },
+  {
+    "id": 183,
+    "title": "Salad with apple & salad",
+    "cat": "Salad",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "яблоком",
+      "и",
+      "сельдереем"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-183.svg",
+    "url": "/en/recipes/salad-with-apple-salad/index.html"
+  },
+  {
+    "id": 184,
+    "title": "Salad with pumpkin & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "печеной",
+      "тыквы"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-184.svg",
+    "url": "/en/recipes/salad-with-pumpkin-salad-184/index.html"
+  },
+  {
+    "id": 185,
+    "title": "Salad with bean & salad",
+    "cat": "Salad",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "свеклы",
+      "и",
+      "фасоли"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-185.svg",
+    "url": "/en/recipes/salad-with-bean-salad-185/index.html"
+  },
+  {
+    "id": 186,
+    "title": "Salad with potato & salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "картофельный",
+      "салат",
+      "с",
+      "огурцом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-186.svg",
+    "url": "/en/recipes/salad-with-potato-salad-196/index.html"
+  },
+  {
+    "id": 187,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "редиса",
+      "с",
+      "зеленью"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-187.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 188,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 50,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "брокколи"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-188.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 189,
+    "title": "Salad with cabbage & salad",
+    "cat": "Salad",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "цветной",
+      "капусты"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-189.svg",
+    "url": "/en/recipes/salad-with-cabbage-salad-191/index.html"
+  },
+  {
+    "id": 190,
+    "title": "Salad with apple & carrot & salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "морковный",
+      "салат",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-190.svg",
+    "url": "/en/recipes/salad-with-apple-carrot-salad-190/index.html"
+  },
+  {
+    "id": 191,
+    "title": "Salad with cabbage & salad",
+    "cat": "Salad",
+    "time": 40,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "капустный",
+      "салат",
+      "с",
+      "укропом"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-191.svg",
+    "url": "/en/recipes/salad-with-cabbage-salad-191/index.html"
+  },
+  {
+    "id": 192,
+    "title": "Salad with rice & salad",
+    "cat": "Salad",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "рисом",
+      "и",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-192.svg",
+    "url": "/en/recipes/salad-with-rice-salad/index.html"
+  },
+  {
+    "id": 193,
+    "title": "Salad with buckwheat & salad",
+    "cat": "Salad",
+    "time": 30,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "с",
+      "гречкой",
+      "и",
+      "овощами"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-193.svg",
+    "url": "/en/recipes/salad-with-buckwheat-salad/index.html"
+  },
+  {
+    "id": 194,
+    "title": "Salad with salad",
+    "cat": "Salad",
+    "time": 20,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "салат",
+      "из",
+      "помидоров",
+      "и",
+      "зелени"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-194.svg",
+    "url": "/en/recipes/salad-with-salad-180/index.html"
+  },
+  {
+    "id": 195,
+    "title": "Salad with apple & salad",
+    "cat": "Salad",
+    "time": 25,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "огуречный",
+      "салат",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-195.svg",
+    "url": "/en/recipes/salad-with-apple-salad/index.html"
+  },
+  {
+    "id": 196,
+    "title": "Salad with potato & salad",
+    "cat": "Salad",
+    "time": 45,
+    "rating": null,
+    "emoji": "🥗",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "салат",
+      "теплый",
+      "картофельный",
+      "салат"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-196.svg",
+    "url": "/en/recipes/salad-with-potato-salad-196/index.html"
+  },
+  {
+    "id": 197,
+    "title": "Drink with compote",
+    "cat": "Drink",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "яблочный",
+      "компот",
+      "с",
+      "корицей"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-197.svg",
+    "url": "/en/recipes/drink-with-compote/index.html"
+  },
+  {
+    "id": 198,
+    "title": "Drink with apple & pear & compote",
+    "cat": "Drink",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "грушевый",
+      "компот",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-198.svg",
+    "url": "/en/recipes/drink-with-apple-pear-compote/index.html"
+  },
+  {
+    "id": 199,
+    "title": "Drink with compote",
+    "cat": "Drink",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "смородины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-199.svg",
+    "url": "/en/recipes/drink-with-compote/index.html"
+  },
+  {
+    "id": 200,
+    "title": "Drink with compote",
+    "cat": "Drink",
+    "time": 30,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "вишни"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-200.svg",
+    "url": "/en/recipes/drink-with-compote/index.html"
+  },
+  {
+    "id": 201,
+    "title": "Drink with compote",
+    "cat": "Drink",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "абрикосов"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-201.svg",
+    "url": "/en/recipes/drink-with-compote/index.html"
+  },
+  {
+    "id": 202,
+    "title": "Homestyle Drink",
+    "cat": "Drink",
+    "time": 35,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "морс",
+      "из",
+      "брусники"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-202.svg",
+    "url": "/en/recipes/homestyle-drink-206/index.html"
+  },
+  {
+    "id": 203,
+    "title": "Homestyle Drink",
+    "cat": "Drink",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "морс",
+      "из",
+      "малины"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-203.svg",
+    "url": "/en/recipes/homestyle-drink-206/index.html"
+  },
+  {
+    "id": 204,
+    "title": "Homestyle Drink",
+    "cat": "Drink",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "морс",
+      "из",
+      "вишни"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-204.svg",
+    "url": "/en/recipes/homestyle-drink-206/index.html"
+  },
+  {
+    "id": 205,
+    "title": "Homestyle Drink",
+    "cat": "Drink",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "яблочный",
+      "кисель"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-205.svg",
+    "url": "/en/recipes/homestyle-drink-206/index.html"
+  },
+  {
+    "id": 206,
+    "title": "Homestyle Drink",
+    "cat": "Drink",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "смородиновый",
+      "кисель"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-206.svg",
+    "url": "/en/recipes/homestyle-drink-206/index.html"
+  },
+  {
+    "id": 207,
+    "title": "Drink with apple & oat",
+    "cat": "Drink",
+    "time": 20,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "овсяный",
+      "напиток",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-207.svg",
+    "url": "/en/recipes/drink-with-apple-oat/index.html"
+  },
+  {
+    "id": 208,
+    "title": "Drink with tea",
+    "cat": "Drink",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "чай",
+      "с",
+      "лимоном",
+      "и",
+      "мятой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-208.svg",
+    "url": "/en/recipes/drink-with-tea/index.html"
+  },
+  {
+    "id": 209,
+    "title": "Drink with apple & tea",
+    "cat": "Drink",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "чай",
+      "с",
+      "яблоком"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-209.svg",
+    "url": "/en/recipes/drink-with-apple-tea-216/index.html"
+  },
+  {
+    "id": 210,
+    "title": "Drink with berry",
+    "cat": "Drink",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "теплый",
+      "ягодный",
+      "напиток"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-210.svg",
+    "url": "/en/recipes/drink-with-berry-210/index.html"
+  },
+  {
+    "id": 211,
+    "title": "Drink with apple",
+    "cat": "Drink",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "напиток",
+      "из",
+      "шиповника",
+      "и",
+      "яблока"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-211.svg",
+    "url": "/en/recipes/drink-with-apple/index.html"
+  },
+  {
+    "id": 212,
+    "title": "Drink with apple & compote",
+    "cat": "Drink",
+    "time": 45,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "компот",
+      "из",
+      "яблок",
+      "и",
+      "слив"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-212.svg",
+    "url": "/en/recipes/drink-with-apple-compote-212/index.html"
+  },
+  {
+    "id": 213,
+    "title": "Drink with pear",
+    "cat": "Drink",
+    "time": 50,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "напиток",
+      "из",
+      "груши",
+      "и",
+      "корицы"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-213.svg",
+    "url": "/en/recipes/drink-with-pear/index.html"
+  },
+  {
+    "id": 214,
+    "title": "Homestyle Drink",
+    "cat": "Drink",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "домашний",
+      "лимонный",
+      "напиток"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-214.svg",
+    "url": "/en/recipes/homestyle-drink-206/index.html"
+  },
+  {
+    "id": 215,
+    "title": "Drink with berry",
+    "cat": "Drink",
+    "time": 40,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "ягодный",
+      "напиток",
+      "с",
+      "мятой"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-215.svg",
+    "url": "/en/recipes/drink-with-berry-210/index.html"
+  },
+  {
+    "id": 216,
+    "title": "Drink with apple & tea",
+    "cat": "Drink",
+    "time": 25,
+    "rating": null,
+    "emoji": "🍵",
+    "ingredients": [
+      "main ingredients — as listed for the recipe",
+      "water or cooking liquid — as needed",
+      "salt and mild seasoning — to taste"
+    ],
+    "steps": [
+      "Prepare and wash the ingredients carefully.",
+      "Measure the ingredients and use clean cookware.",
+      "Cook until all ingredients are fully done and safe to eat.",
+      "Serve fresh; cool leftovers promptly and store safely."
+    ],
+    "tags": [
+      "напиток",
+      "чай",
+      "с",
+      "сушеными",
+      "яблоками"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-216.svg",
+    "url": "/en/recipes/drink-with-apple-tea-216/index.html"
+  },
+  {
+    "id": 217,
+    "title": "Festive Olivier Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-217.svg",
+    "url": "/en/recipes/festive-olivier-salad/index.html"
+  },
+  {
+    "id": 218,
+    "title": "Mimosa Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-218.svg",
+    "url": "/en/recipes/mimosa-salad/index.html"
+  },
+  {
+    "id": 219,
+    "title": "Herring Under a Fur Coat",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-219.svg",
+    "url": "/en/recipes/herring-under-a-fur-coat/index.html"
+  },
+  {
+    "id": 220,
+    "title": "Pomegranate Bracelet Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-220.svg",
+    "url": "/en/recipes/pomegranate-bracelet-salad/index.html"
+  },
+  {
+    "id": 221,
+    "title": "Chicken and Pineapple Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-221.svg",
+    "url": "/en/recipes/chicken-and-pineapple-salad/index.html"
+  },
+  {
+    "id": 222,
+    "title": "Crab Stick Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-222.svg",
+    "url": "/en/recipes/crab-stick-salad/index.html"
+  },
+  {
+    "id": 223,
+    "title": "Homestyle Caesar Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-223.svg",
+    "url": "/en/recipes/homestyle-caesar-salad/index.html"
+  },
+  {
+    "id": 224,
+    "title": "Birthday Mushroom Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-224.svg",
+    "url": "/en/recipes/birthday-mushroom-salad/index.html"
+  },
+  {
+    "id": 225,
+    "title": "New Year Orange Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-225.svg",
+    "url": "/en/recipes/new-year-orange-salad/index.html"
+  },
+  {
+    "id": 226,
+    "title": "Smoked Chicken and Prune Salad",
+    "cat": "Salad",
+    "time": 35,
+    "rating": 4.9,
+    "emoji": "🥗",
+    "ingredients": [
+      "potatoes — 3",
+      "eggs — 3",
+      "fresh vegetables — 300 g",
+      "dressing — to taste",
+      "herbs — to taste"
+    ],
+    "steps": [
+      "Prepare and cool the ingredients.",
+      "Cut everything evenly.",
+      "Mix with dressing and chill before serving."
+    ],
+    "tags": [
+      "salad",
+      "holiday",
+      "birthday",
+      "new year"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-226.svg",
+    "url": "/en/recipes/smoked-chicken-and-prune-salad/index.html"
+  },
+  {
+    "id": 227,
+    "title": "Homestyle Honey Cake",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-227.svg",
+    "url": "/en/recipes/homestyle-honey-cake/index.html"
+  },
+  {
+    "id": 228,
+    "title": "Classic Napoleon Cake",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-228.svg",
+    "url": "/en/recipes/classic-napoleon-cake/index.html"
+  },
+  {
+    "id": 229,
+    "title": "Red Velvet Cake",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-229.svg",
+    "url": "/en/recipes/red-velvet-cake/index.html"
+  },
+  {
+    "id": 230,
+    "title": "Chocolate Cherry Cake",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-230.svg",
+    "url": "/en/recipes/chocolate-cherry-cake/index.html"
+  },
+  {
+    "id": 231,
+    "title": "Carrot Cake with Cream Cheese Frosting",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-231.svg",
+    "url": "/en/recipes/carrot-cake-with-cream-cheese-frosting/index.html"
+  },
+  {
+    "id": 232,
+    "title": "No-Bake Cookie Cake",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍰",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-232.svg",
+    "url": "/en/recipes/no-bake-cookie-cake/index.html"
+  },
+  {
+    "id": 233,
+    "title": "New Year Gingerbread Cookies",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-233.svg",
+    "url": "/en/recipes/new-year-gingerbread-cookies/index.html"
+  },
+  {
+    "id": 234,
+    "title": "Shortbread Jam Cookies",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-234.svg",
+    "url": "/en/recipes/shortbread-jam-cookies/index.html"
+  },
+  {
+    "id": 235,
+    "title": "Chocolate Cookies",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-235.svg",
+    "url": "/en/recipes/chocolate-cookies/index.html"
+  },
+  {
+    "id": 236,
+    "title": "Walnut Cookies",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-236.svg",
+    "url": "/en/recipes/walnut-cookies/index.html"
+  },
+  {
+    "id": 237,
+    "title": "Custard Éclairs",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-237.svg",
+    "url": "/en/recipes/custard-eclairs/index.html"
+  },
+  {
+    "id": 238,
+    "title": "Homemade Doughnuts",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-238.svg",
+    "url": "/en/recipes/homemade-doughnuts/index.html"
+  },
+  {
+    "id": 239,
+    "title": "Poppy Seed Buns",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-239.svg",
+    "url": "/en/recipes/poppy-seed-buns/index.html"
+  },
+  {
+    "id": 240,
+    "title": "Cottage Cheese Crescents",
+    "cat": "Baking",
+    "time": 55,
+    "rating": 4.9,
+    "emoji": "🍪",
+    "ingredients": [
+      "flour — 250 g",
+      "butter — 120 g",
+      "sugar — 100 g",
+      "eggs — 2",
+      "cream or filling — to taste"
+    ],
+    "steps": [
+      "Prepare the dough or cake base.",
+      "Bake until done and cool.",
+      "Add filling or cream and decorate before serving."
+    ],
+    "tags": [
+      "cake",
+      "cookies",
+      "dessert",
+      "tea",
+      "birthday"
+    ],
+    "reviewCount": 0,
+    "reviews": [],
+    "image": "/assets/recipes/en-240.svg",
+    "url": "/en/recipes/cottage-cheese-crescents/index.html"
+  }
+]

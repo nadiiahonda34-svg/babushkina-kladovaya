@@ -1,0 +1,5 @@
+PRODUCTION DOMAIN
+Current live host: super-meadow-3240.nadiiahonda34.workers.dev
+/ru/ is a language path, not a .ru domain.
+When a .com domain is actually registered/connected, replace the canonical base URL and resubmit sitemap.
+Do not claim a .com domain is live until DNS/custom domain is configured.

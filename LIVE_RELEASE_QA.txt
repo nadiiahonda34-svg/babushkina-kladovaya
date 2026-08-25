@@ -1,0 +1,14 @@
+LIVE RELEASE QA
+================
+Russian launch recipes: 120
+Curated, concrete recipes added at top: 20
+Fast search: yes (120 ms debounce)
+Category filters: yes
+Holiday collections: yes
+Recipe modal: yes
+Print/PDF: yes
+Language selector routes: RU/EN/DE/ES/FR/UK
+Mobile responsive: yes
+Google verification file preserved: True
+Sitemap intentionally reduced to strong launch pages: 5
+Reason: avoid sending hundreds of thin/template pages to Google before editorial review.

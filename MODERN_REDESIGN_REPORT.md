@@ -1,0 +1,14 @@
+# Modern redesign QA
+- Compact landing page: yes
+- Long sections moved into on-demand workspace: yes
+- 100 recipes retained: yes
+- 240 dreambook entries retained: yes
+- 80 traditions retained: yes
+- Global search: recipes → dreambook → traditions
+- Language selector: event listener + persisted selection
+- Full UI dictionaries included: RU, EN, DE, ES, FR, UK
+- Other listed language options use English fallback rather than appearing broken
+- Recipe modal: yes
+- PDF/print action: yes
+- Add recipe demo/moderation notice: yes
+- Responsive desktop/mobile CSS: yes

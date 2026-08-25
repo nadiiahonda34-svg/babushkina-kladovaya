@@ -1,0 +1,7 @@
+AdSense is NOT active yet.
+After AdSense approves the site and gives you a real publisher ID:
+1. Add the exact ads.txt line supplied by Google to /ads.txt.
+2. Configure Google's Privacy & messaging / certified CMP before personalized ads for EEA/UK/Switzerland.
+3. Add real publisher/contact details to the site.
+4. Do not place ads where they can be confused with navigation or search results.
+Never invent a pub-ID.
