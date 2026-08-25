@@ -16,46 +16,218 @@
 
 <body>
 
-  <header>
-    <div class="container">
-      <h1>Бабушкина кладовая</h1>
-      <p>Домашние рецепты, проверенные временем</p>
+  <header class="header">
+
+    <a class="logo" href="/">
+      <span>БК</span>
+      <b>Бабушкина кладовая</b>
+    </a>
+
+    <nav>
+      <a href="#recipes">Рецепты</a>
+      <a href="/about.html">О проекте</a>
+      <a href="/contact.html">Контакты</a>
+    </nav>
+
+    <div class="right">
+      <button type="button" onclick="document.getElementById('q').focus()">
+        Найти рецепт
+      </button>
     </div>
+
   </header>
 
-  <main class="container">
 
-    <section>
-      <h2>Рецепты</h2>
+  <main>
 
-      <input
-        id="q"
-        type="search"
-        placeholder="Найти рецепт или ингредиент…"
-        autocomplete="off"
-        aria-label="Поиск рецептов"
-      >
+    <section class="hero">
 
-      <div id="tabs"></div>
+      <div>
+        <div class="eyebrow">
+          ДОМАШНИЕ РЕЦЕПТЫ
+        </div>
 
-      <button id="reset" type="button">
-        Сбросить фильтры
-      </button>
+        <h1>
+          Бабушкина<br>
+          кладовая
+        </h1>
+
+        <p>
+          Любимые домашние рецепты, проверенные временем.
+          Салаты, выпечка, десерты и традиционные блюда
+          для всей семьи.
+        </p>
+
+        <div class="search">
+          <input
+            id="q"
+            type="search"
+            placeholder="Найти рецепт или ингредиент…"
+            autocomplete="off"
+            aria-label="Поиск рецептов"
+          >
+
+          <button
+            type="button"
+            onclick="document.getElementById('q').focus()"
+          >
+            Найти
+          </button>
+        </div>
+
+      </div>
+
+
+      <div class="heroVisual" aria-hidden="true">
+
+        <div class="plate">
+          🍲
+        </div>
+
+        <div class="float f1">
+          🥕
+        </div>
+
+        <div class="float f2">
+          🥧
+        </div>
+
+        <div class="float f3">
+          🌿
+        </div>
+
+      </div>
+
     </section>
 
-    <section>
-      <p id="status">Загрузка рецептов…</p>
 
-      <div id="grid"></div>
+    <section id="recipes">
 
-      <button id="more" type="button">
+      <div class="head">
+
+        <div>
+          <span>КАТАЛОГ</span>
+          <h2>Наши рецепты</h2>
+
+          <p>
+            Выберите категорию или найдите нужное блюдо
+          </p>
+        </div>
+
+      </div>
+
+
+      <!-- live.js заполняет категории -->
+      <div id="tabs" class="tabs"></div>
+
+
+      <button
+        id="reset"
+        class="more"
+        type="button"
+      >
+        Сбросить фильтры
+      </button>
+
+
+      <p id="status">
+        Загрузка рецептов…
+      </p>
+
+
+      <!-- live.js создаёт карточки здесь -->
+      <div id="grid" class="grid"></div>
+
+
+      <button
+        id="more"
+        class="more"
+        type="button"
+      >
         Показать ещё
       </button>
+
+    </section>
+
+
+    <section class="split">
+
+      <article>
+
+        <span>О ПРОЕКТЕ</span>
+
+        <h2>
+          Рецепты с домашней историей
+        </h2>
+
+        <p>
+          «Бабушкина кладовая» — коллекция домашних
+          рецептов на каждый день и для праздничного стола.
+        </p>
+
+        <a href="/about.html">
+          Узнать больше →
+        </a>
+
+      </article>
+
+
+      <article>
+
+        <span>ИДЕИ ДЛЯ СТОЛА</span>
+
+        <h2>
+          Найдите своё любимое блюдо
+        </h2>
+
+        <p>
+          Используйте поиск и категории, чтобы быстро
+          подобрать подходящий рецепт.
+        </p>
+
+        <a href="#recipes">
+          Смотреть рецепты →
+        </a>
+
+      </article>
+
     </section>
 
   </main>
 
+
+  <footer>
+
+    <b>Бабушкина кладовая</b>
+
+    <span>
+      © 2026 Бабушкина кладовая
+    </span>
+
+    <div>
+      <a href="/about.html">
+        О проекте
+      </a>
+
+      <a href="/contact.html">
+        Контакты
+      </a>
+
+      <a href="/privacy.html">
+        Политика конфиденциальности
+      </a>
+    </div>
+
+  </footer>
+
+
+  <!--
+    Оставляем DIV, а не dialog:
+    текущий live.js работает с #modal и .close
+  -->
+
   <div id="modal" hidden>
+
     <div class="modal-content">
 
       <button
@@ -69,19 +241,9 @@
       <div id="modalBody"></div>
 
     </div>
+
   </div>
 
-  <footer>
-    <div class="container">
-      <p>© Бабушкина кладовая</p>
-
-      <nav>
-        <a href="/about.html">О проекте</a>
-        <a href="/contact.html">Контакты</a>
-        <a href="/privacy.html">Политика конфиденциальности</a>
-      </nav>
-    </div>
-  </footer>
 
   <script src="/live.js"></script>
 
