@@ -1,10 +1,88 @@
 <!doctype html>
 <html lang="ru">
 <head>
-<meta charset="utf-8">
-<title>Бабушкина кладовая</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Бабушкина кладовая — домашние рецепты</title>
+
+  <meta
+    name="description"
+    content="Бабушкина кладовая — домашние рецепты, салаты, выпечка, десерты и традиционные блюда."
+  >
+
+  <link rel="stylesheet" href="live.css">
 </head>
+
 <body>
-<h1>Бабушкина кладовая</h1>
+
+  <header>
+    <div class="container">
+      <h1>Бабушкина кладовая</h1>
+      <p>Домашние рецепты, проверенные временем</p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section>
+      <h2>Рецепты</h2>
+
+      <input
+        id="q"
+        type="search"
+        placeholder="Найти рецепт или ингредиент…"
+        autocomplete="off"
+      >
+
+      <div id="tabs"></div>
+
+      <button id="reset" type="button">
+        Сбросить фильтры
+      </button>
+    </section>
+
+    <section>
+      <p id="status">Загрузка рецептов…</p>
+
+      <div id="grid"></div>
+
+      <button id="more" type="button">
+        Показать ещё
+      </button>
+    </section>
+
+  </main>
+
+  <div id="modal" hidden>
+    <div class="modal-content">
+
+      <button
+        class="close"
+        type="button"
+        aria-label="Закрыть"
+      >
+        ×
+      </button>
+
+      <div id="modalBody"></div>
+
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <p>© Бабушкина кладовая</p>
+
+      <nav>
+        <a href="about.html">О проекте</a>
+        <a href="contact.html">Контакты</a>
+        <a href="privacy.html">Политика конфиденциальности</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="live.js"></script>
+
 </body>
 </html>
