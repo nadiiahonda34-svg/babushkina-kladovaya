@@ -65,13 +65,13 @@ export default {
       }
 
       const recipeMatch = url.pathname.match(/^\/ru\/recipes\/recipe-(\d+)(?:\/index\.html|\/)?$/);
-      if (recipeMatch && request.method === 'GET') {
+      if (recipeMatch && (request.method === 'GET' || request.method === 'HEAD')) {
         const recipes = await loadRussianRecipes(env, url);
         const recipe = recipes.find((item) => Number(item.id) === Number(recipeMatch[1]));
         if (!recipe) return withSecurityHeaders(new Response('Рецепт не найден', { status: 404, headers: { 'content-type': 'text/plain; charset=utf-8' } }));
         const canonicalPath = `/ru/recipes/recipe-${recipe.id}/`;
         if (url.pathname !== canonicalPath) return Response.redirect(`${SITE_URL}${canonicalPath}`, 301);
-        return withSecurityHeaders(new Response(recipePage(recipe, canonicalPath), { headers: { 'content-type': 'text/html; charset=utf-8', 'cache-control': 'public, max-age=3600' } }));
+        return withSecurityHeaders(new Response(request.method === 'HEAD' ? null : recipePage(recipe, canonicalPath), { headers: { 'content-type': 'text/html; charset=utf-8', 'cache-control': 'public, max-age=3600' } }));
       }
 
       return withSecurityHeaders(await env.ASSETS.fetch(request));
