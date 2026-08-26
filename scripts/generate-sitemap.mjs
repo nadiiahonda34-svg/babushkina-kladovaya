@@ -1,6 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
-const origin = 'https://super-meadow-3240.nadiiahonda34.workers.dev';
+const origin = 'https://babushkina-kladovaya.nadiiahonda34.workers.dev';
 const recipes = JSON.parse(await readFile(new URL('../recipes-ru.json', import.meta.url), 'utf8'));
 const staticPaths = ['/', '/about.html', '/contact.html', '/privacy.html', '/terms.html', '/editorial-policy.html'];
 const recipePaths = recipes.map((recipe) => `/ru/recipes/recipe-${Number(recipe.id)}/`);

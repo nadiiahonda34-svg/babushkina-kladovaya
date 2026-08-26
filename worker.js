@@ -1,4 +1,4 @@
-const SITE_URL = 'https://super-meadow-3240.nadiiahonda34.workers.dev';
+const SITE_URL = 'https://babushkina-kladovaya.nadiiahonda34.workers.dev';
 const json = (data, status = 200) => new Response(JSON.stringify(data), { status, headers: { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store' } });
 const clean = (value, length = 5000) => String(value ?? '').trim().slice(0, length);
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>'"]/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[char]);
