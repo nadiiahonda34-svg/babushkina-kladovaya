@@ -11,7 +11,20 @@
     content="Бабушкина кладовая — домашние рецепты, салаты, выпечка, десерты и традиционные блюда."
   >
 
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <meta name="theme-color" content="#183d2b">
+  <link rel="canonical" href="https://super-meadow-3240.nadiiahonda34.workers.dev/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:title" content="Бабушкина кладовая — домашние рецепты">
+  <meta property="og:description" content="Понятные домашние рецепты с ингредиентами и пошаговым приготовлением.">
+  <meta property="og:url" content="https://super-meadow-3240.nadiiahonda34.workers.dev/">
+  <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"WebSite","name":"Бабушкина кладовая","url":"https://super-meadow-3240.nadiiahonda34.workers.dev/","inLanguage":"ru","potentialAction":{"@type":"SearchAction","target":"https://super-meadow-3240.nadiiahonda34.workers.dev/?q={search_term_string}","query-input":"required name=search_term_string"}}
+  </script>
+
   <link rel="stylesheet" href="/live.css">
+  <link rel="stylesheet" href="/fixes.css">
 </head>
 
 <body>
@@ -121,16 +134,12 @@
       <div id="tabs" class="tabs"></div>
 
 
-      <button
-        id="reset"
-        class="more"
-        type="button"
-      >
+      <button id="reset" class="more" type="button" hidden>
         Сбросить фильтры
       </button>
 
 
-      <p id="status">
+      <p id="status" role="status" aria-live="polite">
         Загрузка рецептов…
       </p>
 
@@ -216,17 +225,16 @@
       <a href="/privacy.html">
         Политика конфиденциальности
       </a>
+
+      <a href="/terms.html">Правила сайта</a>
+
+      <a href="/editorial-policy.html">Редакционная политика</a>
     </div>
 
   </footer>
 
 
-  <!--
-    Оставляем DIV, а не dialog:
-    текущий live.js работает с #modal и .close
-  -->
-
-  <div id="modal" hidden>
+  <dialog id="modal" aria-labelledby="recipeTitle">
 
     <div class="modal-content">
 
@@ -242,7 +250,7 @@
 
     </div>
 
-  </div>
+  </dialog>
 
 
   <script src="/live.js"></script>

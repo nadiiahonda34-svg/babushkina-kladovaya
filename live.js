@@ -1,8 +1,58 @@
-let R=[],shown=16,current="";const $=s=>document.querySelector(s),norm=s=>(s||"").toLowerCase().replace(/ё/g,"е");
-fetch("/recipes-ru.json").then(r=>r.json()).then(x=>{R=x;buildTabs();render()});
-const priority=["Праздничные салаты","Новогодние салаты","Салаты на день рождения","Особенные салаты","Торты","Печенье","Новогодняя выпечка","Десерты","Выпечка","Горячие блюда","Рыба","Завтраки","Суп"];
-function buildTabs(){let cats=[...new Set(R.map(x=>x.cat))];cats.sort((a,b)=>(priority.indexOf(a)<0?99:priority.indexOf(a))-(priority.indexOf(b)<0?99:priority.indexOf(b)));$("#tabs").innerHTML='<button class="active" data-c="">Все</button>'+cats.map(c=>`<button data-c="${c}">${c}</button>`).join("");$("#tabs").querySelectorAll("button").forEach(b=>b.onclick=()=>{current=b.dataset.c;shown=16;$("#tabs").querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));render()})}
-function filtered(){let q=norm($("#q").value.trim());return R.filter(r=>(!current||r.cat===current)&&(!q||norm([r.title,r.cat,...(r.tags||[]),...(r.ingredients||[])].join(" ")).includes(q)))}
-function render(){let a=filtered();$("#status").textContent=`Найдено: ${a.length}`;$("#grid").innerHTML=a.slice(0,shown).map(r=>`<button class="card" data-id="${r.id}"><div class="visual">${r.emoji||"🍽️"}</div><div class="body"><small>${r.cat}</small><h3>${r.title}</h3><p>${r.time||30} мин · открыть рецепт →</p></div></button>`).join("");$("#more").style.display=a.length>shown?"block":"none";$("#grid").querySelectorAll(".card").forEach(b=>b.onclick=()=>openRecipe(+b.dataset.id))}
-function openRecipe(id){let r=R.find(x=>x.id===id);$("#modalBody").innerHTML=`<small>${r.cat}</small><h2>${r.emoji||"🍽️"} ${r.title}</h2><p>${r.time||30} минут</p><h3>Ингредиенты</h3><ul>${r.ingredients.map(x=>`<li>${x}</li>`).join("")}</ul><h3>Приготовление</h3><ol>${r.steps.map(x=>`<li>${x}</li>`).join("")}</ol><button onclick="window.print()">Сохранить / PDF</button>`;$("#modal").showModal()}
-$(".close").onclick=()=>$("#modal").close();$("#more").onclick=()=>{shown+=16;render()};$("#reset").onclick=()=>{current="";$("#q").value="";shown=16;buildTabs();render()};$("#go").onclick=()=>{current="";shown=16;render();$("#catalog").scrollIntoView({behavior:"smooth"})};let t;$("#q").oninput=()=>{clearTimeout(t);t=setTimeout(()=>{current="";shown=16;render()},120)};document.querySelectorAll("[data-cat]").forEach(b=>b.onclick=()=>{current=b.dataset.cat;shown=16;render();$("#catalog").scrollIntoView({behavior:"smooth"})});document.querySelectorAll("[data-search]").forEach(b=>b.onclick=()=>{$("#q").value=b.dataset.search;current="";shown=16;render();$("#catalog").scrollIntoView({behavior:"smooth"})});$("#lang").onchange=e=>location.href=`/${e.target.value}/`;document.querySelector("#add")?.remove();document.querySelectorAll("[data-info]").forEach(a=>a.onclick=e=>{e.preventDefault();alert(a.dataset.info==="dreams"?"Сонник остаётся отдельным фольклорно-развлекательным разделом.":"Раздел семейных традиций будет расширяться редакционными материалами.")});
+(() => {
+  'use strict';
+  let recipes = [], shown = 16, currentCategory = '', lastFocusedCard = null;
+  const $ = (selector) => document.querySelector(selector);
+  const normalize = (value) => String(value || '').toLowerCase().replace(/ё/g, 'е');
+  const escapeHtml = (value) => String(value ?? '').replace(/[&<>'"]/g, (char) => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+  const priority = ['Праздничные салаты','Новогодние салаты','Салаты на день рождения','Особенные салаты','Торты','Печенье','Новогодняя выпечка','Десерты','Выпечка','Горячие блюда','Рыба','Завтраки','Суп'];
+
+  function buildTabs() {
+    const categories = [...new Set(recipes.map((recipe) => recipe.cat).filter(Boolean))];
+    categories.sort((a, b) => { const ai = priority.indexOf(a), bi = priority.indexOf(b); return (ai < 0 ? 99 : ai) - (bi < 0 ? 99 : bi) || a.localeCompare(b, 'ru'); });
+    $('#tabs').innerHTML = `<button class="${currentCategory ? '' : 'active'}" type="button" data-category="">Все</button>` + categories.map((category) => `<button class="${currentCategory === category ? 'active' : ''}" type="button" data-category="${escapeHtml(category)}">${escapeHtml(category)}</button>`).join('');
+    $('#tabs').querySelectorAll('button').forEach((button) => button.addEventListener('click', () => { currentCategory = button.dataset.category || ''; shown = 16; buildTabs(); render(); }));
+  }
+
+  function filteredRecipes() {
+    const query = normalize($('#q').value.trim());
+    return recipes.filter((recipe) => (!currentCategory || recipe.cat === currentCategory) && (!query || normalize([recipe.title, recipe.cat, ...(recipe.tags || []), ...(recipe.ingredients || [])].join(' ')).includes(query)));
+  }
+
+  function render() {
+    const filtered = filteredRecipes();
+    $('#status').textContent = filtered.length ? `Найдено рецептов: ${filtered.length}` : 'Ничего не найдено. Попробуйте другой запрос.';
+    $('#grid').innerHTML = filtered.slice(0, shown).map((recipe) => `<a class="card" data-id="${Number(recipe.id)}" href="${escapeHtml(recipe.url || `/ru/recipes/recipe-${recipe.id}/index.html`)}"><div class="visual" aria-hidden="true">${escapeHtml(recipe.emoji || '🍽️')}</div><div class="body"><small>${escapeHtml(recipe.cat)}</small><h3>${escapeHtml(recipe.title)}</h3><p>${Number(recipe.time) || 30} мин · открыть рецепт →</p></div></a>`).join('');
+    $('#more').hidden = filtered.length <= shown;
+    $('#reset').hidden = !currentCategory && !$('#q').value.trim();
+    $('#grid').querySelectorAll('.card').forEach((card) => card.addEventListener('click', (event) => { if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return; event.preventDefault(); lastFocusedCard = card; openRecipe(Number(card.dataset.id)); }));
+  }
+
+  function openRecipe(id) {
+    const recipe = recipes.find((item) => Number(item.id) === id);
+    if (!recipe) return;
+    const recipeUrl = recipe.url || `/ru/recipes/recipe-${recipe.id}/index.html`;
+    $('#modalBody').innerHTML = `<small>${escapeHtml(recipe.cat)}</small><h2 id="recipeTitle">${escapeHtml(recipe.emoji || '🍽️')} ${escapeHtml(recipe.title)}</h2><p>${Number(recipe.time) || 30} минут</p><h3>Ингредиенты</h3><ul>${(recipe.ingredients || []).map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul><h3>Приготовление</h3><ol>${(recipe.steps || []).map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ol><div class="recipe-actions"><a href="${escapeHtml(recipeUrl)}">Открыть отдельной страницей</a><button type="button" id="printRecipe">Сохранить / PDF</button></div>`;
+    $('#printRecipe').addEventListener('click', () => window.print());
+    $('#modal').showModal();
+  }
+
+  function resetFilters() {
+    currentCategory = ''; $('#q').value = ''; shown = 16;
+    const url = new URL(location.href); url.searchParams.delete('q'); history.replaceState({}, '', url);
+    buildTabs(); render();
+  }
+
+  $('.close').addEventListener('click', () => $('#modal').close());
+  $('#modal').addEventListener('click', (event) => { if (event.target === $('#modal')) $('#modal').close(); });
+  $('#modal').addEventListener('close', () => lastFocusedCard?.focus());
+  $('#more').addEventListener('click', () => { shown += 16; render(); });
+  $('#reset').addEventListener('click', resetFilters);
+  let debounce;
+  $('#q').addEventListener('input', () => { clearTimeout(debounce); debounce = setTimeout(() => { currentCategory = ''; shown = 16; buildTabs(); render(); }, 120); });
+  const initialQuery = new URL(location.href).searchParams.get('q');
+  if (initialQuery) $('#q').value = initialQuery;
+  fetch('/recipes-ru.json')
+    .then((response) => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
+    .then((data) => { recipes = Array.isArray(data) ? data : []; buildTabs(); render(); })
+    .catch(() => { $('#status').className = 'error'; $('#status').textContent = 'Не удалось загрузить рецепты. Обновите страницу немного позже.'; $('#more').hidden = true; });
+})();

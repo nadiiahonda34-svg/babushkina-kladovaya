@@ -1,0 +1,10 @@
+{
+  "name": "babushkina-kladovaya",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm run sitemap && npm run check",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "check": "node --check live.js && node --check worker.js && node scripts/validate.mjs"
+  }
+}
