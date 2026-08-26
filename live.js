@@ -49,6 +49,14 @@
   $('#reset').addEventListener('click', resetFilters);
   let debounce;
   $('#q').addEventListener('input', () => { clearTimeout(debounce); debounce = setTimeout(() => { currentCategory = ''; shown = 16; buildTabs(); render(); }, 120); });
+  document.querySelectorAll('[data-search]').forEach((button) => button.addEventListener('click', () => {
+    $('#q').value = button.dataset.search || '';
+    currentCategory = '';
+    shown = 16;
+    buildTabs();
+    render();
+    $('#recipes').scrollIntoView({ behavior: 'smooth' });
+  }));
   const initialQuery = new URL(location.href).searchParams.get('q');
   if (initialQuery) $('#q').value = initialQuery;
   fetch('/recipes-ru.json')

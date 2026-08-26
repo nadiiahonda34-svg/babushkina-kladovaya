@@ -25,6 +25,7 @@
 
   <link rel="stylesheet" href="/live.css">
   <link rel="stylesheet" href="/fixes.css">
+  <link rel="stylesheet" href="/modern.css">
 </head>
 
 <body>
@@ -66,9 +67,9 @@
         </h1>
 
         <p>
-          Любимые домашние рецепты, проверенные временем.
-          Салаты, выпечка, десерты и традиционные блюда
-          для всей семьи.
+          Понятные домашние рецепты без лишней суеты —
+          с точными ингредиентами, пошаговым приготовлением
+          и вкусом, который собирает семью за одним столом.
         </p>
 
         <div class="search">
@@ -88,29 +89,40 @@
           </button>
         </div>
 
-      </div>
-
-
-      <div class="heroVisual" aria-hidden="true">
-
-        <div class="plate">
-          🍲
-        </div>
-
-        <div class="float f1">
-          🥕
-        </div>
-
-        <div class="float f2">
-          🥧
-        </div>
-
-        <div class="float f3">
-          🌿
+        <div class="hero-meta" aria-label="О проекте в цифрах">
+          <span><strong>227</strong> рецептов</span>
+          <span><strong>15+</strong> категорий</span>
+          <span><strong>Пошагово</strong> и понятно</span>
         </div>
 
       </div>
 
+
+      <figure class="heroVisual">
+        <img src="/assets/photos/hero-table.webp" width="1774" height="887" alt="Домашний стол с борщом, хлебом и свежей зеленью" fetchpriority="high">
+        <figcaption>Домашняя кухня — современно и с теплом</figcaption>
+      </figure>
+
+    </section>
+
+    <section class="editorial" aria-labelledby="editorialTitle">
+      <div class="head">
+        <div>
+          <span>ВЫБОР РЕДАКЦИИ</span>
+          <h2 id="editorialTitle">Что приготовить сегодня</h2>
+          <p>Две подборки для уютного стола и особенного случая</p>
+        </div>
+      </div>
+      <div class="editorial-grid">
+        <button type="button" class="editorial-card" data-search="салат">
+          <img src="/assets/photos/salads.webp" width="1100" height="1100" alt="Домашние праздничные салаты" loading="lazy">
+          <span><small>ПРАЗДНИЧНЫЙ СТОЛ</small><strong>Салаты, которые хочется повторить</strong><em>Смотреть рецепты →</em></span>
+        </button>
+        <button type="button" class="editorial-card" data-search="выпечка">
+          <img src="/assets/photos/baking.webp" width="1100" height="1100" alt="Домашний яблочный пирог и булочки с корицей" loading="lazy">
+          <span><small>ТЁПЛАЯ ВЫПЕЧКА</small><strong>Пироги и булочки к семейному чаепитию</strong><em>Смотреть рецепты →</em></span>
+        </button>
+      </div>
     </section>
 
 
